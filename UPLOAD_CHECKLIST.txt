@@ -1,0 +1,26 @@
+NEW FILE (4090-only):
+  run_rtx4090_llama32.py
+
+UNCHANGED EXISTING MAC MATRIX9 V3 FILES (exact copies already bundled):
+  experiment_matrix.py
+  run_matrix_12.py
+  run_experiment_mps_memory_fixed.py
+  concept_tree_rag_v5_timed_engine.py
+
+COPY FROM YOUR MAC MINI RAG PROJECT, NOT INCLUDED IN CODE ZIP:
+  minirag/ (entire original source directory, preserve internal files)
+  original requirements.txt and/or setup.py / pyproject.toml
+  dataset/MultiHop-RAG/MultiHopRAG.json
+  runs/gpt_index_v2/ (complete index including GraphML, all VDB/KV JSON)
+  runs/gpt_index_v2/results/concept_tree_v5_full2556_contexts.jsonl
+
+DO NOT COPY:
+  macOS .venv, current Mac results, huge unused experiments, API secrets,
+  .env containing credentials, incomplete *.tmp files
+
+COMMANDS:
+  python run_rtx4090_llama32.py check
+  python run_rtx4090_llama32.py smoke
+  python run_rtx4090_llama32.py run --method mini --start 0 --limit 100
+  python run_rtx4090_llama32.py run --method concept --start 0 --limit 100
+  python run_rtx4090_llama32.py run --method standard --start 0 --limit 100
