@@ -1,0 +1,65 @@
+{
+  "source_qa_jsonl": "/Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/runs/gpt_index_v2/results/concept_tree_v5_full2556.jsonl",
+  "evaluated_at_utc": "2026-11-08T23:28:32.541382+00:00",
+  "judge_model": "gpt-4o",
+  "votes_per_question": 1,
+  "total_qa_records": 2556,
+  "judged_count": 2556,
+  "unjudged_count": 0,
+  "unjudged_reasons": {},
+  "overall": {
+    "count": 2556,
+    "correct": 944,
+    "incorrect": 815,
+    "abstain": 797,
+    "accuracy_pct": 36.93,
+    "error_rate_pct": 31.89,
+    "abstention_rate_pct": 31.18
+  },
+  "by_question_type": {
+    "comparison_query": {
+      "count": 856,
+      "correct": 219,
+      "incorrect": 372,
+      "abstain": 265,
+      "accuracy_pct": 25.58,
+      "error_rate_pct": 43.46,
+      "abstention_rate_pct": 30.96
+    },
+    "inference_query": {
+      "count": 816,
+      "correct": 632,
+      "incorrect": 170,
+      "abstain": 14,
+      "accuracy_pct": 77.45,
+      "error_rate_pct": 20.83,
+      "abstention_rate_pct": 1.72
+    },
+    "null_query": {
+      "count": 301,
+      "correct": 3,
+      "incorrect": 87,
+      "abstain": 211,
+      "accuracy_pct": 1.0,
+      "error_rate_pct": 28.9,
+      "abstention_rate_pct": 70.1
+    },
+    "temporal_query": {
+      "count": 583,
+      "correct": 90,
+      "incorrect": 186,
+      "abstain": 307,
+      "accuracy_pct": 15.44,
+      "error_rate_pct": 31.9,
+      "abstention_rate_pct": 52.66
+    }
+  },
+  "methodology_notes": [
+    "GPT-4o classifies answers as correct, incorrect or abstain based on QA gold references.",
+    "Error Rate excludes explicit abstentions; API/runtime errors are unjudged, not wrong answers.",
+    "Published MiniRAG prompts and rerun details may differ; results approximate, not guarantee exact Table 1 reproduction.",
+    "For null_query, a model refusal is reported as abstain, not correct, in the three-way rates."
+  ],
+  "evaluation_protocol": "UNVERIFIED custom judge prompt (not exact paper reproduction)",
+  "judge_prompt_sha256_12": "54a662e02b6e"
+}

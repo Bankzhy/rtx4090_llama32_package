@@ -1,0 +1,26 @@
+{
+  "design": "answer-only A/B: reuse V5 saved retrieved evidence unchanged",
+  "baseline": "runs/gpt_index_v2/results/compare100_v5_coverage/concept_tree_v5_100.jsonl",
+  "contexts": "runs/gpt_index_v2/results/compare100_v5_coverage/concept_tree_v5_100_contexts.jsonl",
+  "limit": 100,
+  "model": "Qwen/Qwen2.5-3B-Instruct",
+  "device": "mps",
+  "fp16_on_mps": true,
+  "max_context_chars": 14000,
+  "max_chunk_chars": 3500,
+  "max_new_tokens": 512,
+  "temperature": 0,
+  "do_sample": false,
+  "variants": {
+    "minirag_style": {
+      "prompt": "You are an assistant answering the user question using the supplied retrieved data. Summarize relevant information and synthesize a concise answer from the evidence. If you don't know the answer, just say so. Do not make anything up. Do not cite sources that were not supplied.",
+      "sha256_12": "952cba589ac8"
+    },
+    "evidence_guided": {
+      "prompt": "Answer the question using the provided evidence. First identify the relevant facts from the different sources and combine them carefully. For comparison and temporal questions, explicitly compare the relevant facts from each source, including dates and event order when needed. If the evidence supports a conclusion through reasoning, provide that conclusion even when no single source states it directly. For yes/no questions, begin with Yes or No when the evidence supports a definite answer. If essential facts are missing or contradictory and cannot be resolved, say the information is insufficient. Do not invent facts or sources. Be concise.",
+      "sha256_12": "1bc085c218db"
+    }
+  },
+  "note": "MiniRAG-style is an approximation to compare answer instructions, not the literal MiniRAG prompt or its structured context.",
+  "judge_note": "Existing custom approximate GPT-4o judge, votes=1, not paper exact reproduction"
+}

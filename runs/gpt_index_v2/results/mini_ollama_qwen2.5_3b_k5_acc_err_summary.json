@@ -1,0 +1,63 @@
+{
+  "source_qa_jsonl": "/Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/.runsgpt_index_v2/results/mini_ollama_qwen2.5_3b_k5.jsonl",
+  "evaluated_at_utc": "2026-11-07T10:18:31.495542+00:00",
+  "judge_model": "gpt-4o",
+  "votes_per_question": 1,
+  "total_qa_records": 2556,
+  "judged_count": 2556,
+  "unjudged_count": 0,
+  "unjudged_reasons": {},
+  "overall": {
+    "count": 2556,
+    "correct": 821,
+    "incorrect": 1236,
+    "abstain": 499,
+    "accuracy_pct": 32.12,
+    "error_rate_pct": 48.36,
+    "abstention_rate_pct": 19.52
+  },
+  "by_question_type": {
+    "comparison_query": {
+      "count": 856,
+      "correct": 247,
+      "incorrect": 529,
+      "abstain": 80,
+      "accuracy_pct": 28.86,
+      "error_rate_pct": 61.8,
+      "abstention_rate_pct": 9.35
+    },
+    "inference_query": {
+      "count": 816,
+      "correct": 452,
+      "incorrect": 333,
+      "abstain": 31,
+      "accuracy_pct": 55.39,
+      "error_rate_pct": 40.81,
+      "abstention_rate_pct": 3.8
+    },
+    "null_query": {
+      "count": 301,
+      "correct": 0,
+      "incorrect": 82,
+      "abstain": 219,
+      "accuracy_pct": 0.0,
+      "error_rate_pct": 27.24,
+      "abstention_rate_pct": 72.76
+    },
+    "temporal_query": {
+      "count": 583,
+      "correct": 122,
+      "incorrect": 292,
+      "abstain": 169,
+      "accuracy_pct": 20.93,
+      "error_rate_pct": 50.09,
+      "abstention_rate_pct": 28.99
+    }
+  },
+  "methodology_notes": [
+    "GPT-4o classifies answers as correct, incorrect or abstain based on QA gold references.",
+    "Error Rate excludes explicit abstentions; API/runtime errors are unjudged, not wrong answers.",
+    "Published MiniRAG prompts and rerun details may differ; results approximate, not guarantee exact Table 1 reproduction.",
+    "For null_query, a model refusal is reported as abstain, not correct, in the three-way rates."
+  ]
+}

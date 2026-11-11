@@ -1,0 +1,34 @@
+{
+  "dataset": "/Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/dataset/MultiHop-RAG/MultiHopRAG.json",
+  "count": 100,
+  "question_ids": [
+    0,
+    99
+  ],
+  "model": "Qwen/Qwen2.5-3B-Instruct",
+  "device": "mps",
+  "qa_backends": {
+    "minirag": "hf-portable",
+    "concept_tree": "hf --hf-device mps"
+  },
+  "warning": "Both QA models loaded with float16 on MPS; inference wrappers/generation settings may still differ, so not a fully controlled comparison. GPT Judge is approximate.",
+  "retrieval": {
+    "minirag": "mini top-k=5",
+    "concept_tree": "top_topics=3 top_leaves=5 top_k=5"
+  },
+  "judge_performed": true,
+  "inputs_sha256": {
+    "baseline_script": "17f12e48ac17c54e282c26d59e4c14ec9f7212b211e9b5f99195d2775f60a08d",
+    "concept_script": "0384ae1172ffe8ea94b5387bbe16926e9200d1d95b75073abbf767bff1af9793",
+    "judge_script": "e05ffc801a658ffd793496db368e7555106a23c8da56b2057334056e6e4460db",
+    "qa_data": "03cfb4926461f868684903aadc8024447bdda5bb3f6804741424cce338515bff",
+    "tree": "7c3ac3596cd83bf8fac3fdc46ac8ed5b1701a86d8a09aaffe013cf5425bbebcb",
+    "tree_centroids": "b31591054210166936ed41c93cee5425852cd4a292b9131f4ae5fc2c99f6430a",
+    "index_config": "f333c64ec268cb64d84fe923fbedaa9ad52f4f6251a98d9bb7eb5311c3610ea4"
+  },
+  "outputs": {
+    "minirag": "/Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/runs/gpt_index_v2/results/mini_hf-portable_Qwen_Qwen2.5-3B-Instruct_k5_compare100.jsonl",
+    "concept_tree": "/Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/runs/gpt_index_v2/results/compare100/concept_tree_hf_mps_100.jsonl",
+    "concept_contexts": "/Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/runs/gpt_index_v2/results/compare100/concept_tree_hf_mps_100_contexts.jsonl"
+  }
+}

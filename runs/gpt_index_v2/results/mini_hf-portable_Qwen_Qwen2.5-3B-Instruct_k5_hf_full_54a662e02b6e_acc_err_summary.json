@@ -1,0 +1,65 @@
+{
+  "source_qa_jsonl": "/Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/.runsgpt_index_v2/results/mini_hf-portable_Qwen_Qwen2.5-3B-Instruct_k5_hf_full.jsonl",
+  "evaluated_at_utc": "2026-11-08T04:06:30.846021+00:00",
+  "judge_model": "gpt-4o",
+  "votes_per_question": 1,
+  "total_qa_records": 2556,
+  "judged_count": 2556,
+  "unjudged_count": 0,
+  "unjudged_reasons": {},
+  "overall": {
+    "count": 2556,
+    "correct": 970,
+    "incorrect": 1304,
+    "abstain": 282,
+    "accuracy_pct": 37.95,
+    "error_rate_pct": 51.02,
+    "abstention_rate_pct": 11.03
+  },
+  "by_question_type": {
+    "comparison_query": {
+      "count": 856,
+      "correct": 310,
+      "incorrect": 523,
+      "abstain": 23,
+      "accuracy_pct": 36.21,
+      "error_rate_pct": 61.1,
+      "abstention_rate_pct": 2.69
+    },
+    "inference_query": {
+      "count": 816,
+      "correct": 492,
+      "incorrect": 313,
+      "abstain": 11,
+      "accuracy_pct": 60.29,
+      "error_rate_pct": 38.36,
+      "abstention_rate_pct": 1.35
+    },
+    "null_query": {
+      "count": 301,
+      "correct": 1,
+      "incorrect": 123,
+      "abstain": 177,
+      "accuracy_pct": 0.33,
+      "error_rate_pct": 40.86,
+      "abstention_rate_pct": 58.8
+    },
+    "temporal_query": {
+      "count": 583,
+      "correct": 167,
+      "incorrect": 345,
+      "abstain": 71,
+      "accuracy_pct": 28.64,
+      "error_rate_pct": 59.18,
+      "abstention_rate_pct": 12.18
+    }
+  },
+  "methodology_notes": [
+    "GPT-4o classifies answers as correct, incorrect or abstain based on QA gold references.",
+    "Error Rate excludes explicit abstentions; API/runtime errors are unjudged, not wrong answers.",
+    "Published MiniRAG prompts and rerun details may differ; results approximate, not guarantee exact Table 1 reproduction.",
+    "For null_query, a model refusal is reported as abstain, not correct, in the three-way rates."
+  ],
+  "evaluation_protocol": "UNVERIFIED custom judge prompt (not exact paper reproduction)",
+  "judge_prompt_sha256_12": "54a662e02b6e"
+}

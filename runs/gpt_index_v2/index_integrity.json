@@ -1,0 +1,14 @@
+{
+  "missing_stores": [],
+  "expected_documents": 609,
+  "document_count_mismatch": false,
+  "chunk_count_mismatch": false,
+  "graph_nodes": 19601,
+  "graph_edges": 13043,
+  "isolated_nodes": 8376,
+  "isolated_pct": 42.73,
+  "stored_documents": 609,
+  "stored_chunks": 1649,
+  "embedded_chunks": 1649,
+  "embedded_relationships": 13043
+}

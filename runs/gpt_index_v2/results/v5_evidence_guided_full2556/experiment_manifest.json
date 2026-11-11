@@ -1,0 +1,17 @@
+{
+  "design": "V5 fixed-evidence full QA, Evidence-Guided system prompt only",
+  "baseline": "runs/gpt_index_v2/results/concept_tree_v5_full2556.jsonl",
+  "contexts": "runs/gpt_index_v2/results/concept_tree_v5_full2556_contexts.jsonl",
+  "expected_questions": 2556,
+  "model": "Qwen/Qwen2.5-3B-Instruct",
+  "hf_device": "mps",
+  "fp16_on_mps": true,
+  "max_context_chars": 14000,
+  "max_chunk_chars": 3500,
+  "max_new_tokens": 512,
+  "do_sample": false,
+  "prompt": "Answer the question using the provided evidence. First identify the relevant facts from the different sources and combine them carefully. For comparison and temporal questions, explicitly compare the relevant facts from each source, including dates and event order when needed. If the evidence supports a conclusion through reasoning, provide that conclusion even when no single source states it directly. For yes/no questions, begin with Yes or No when the evidence supports a definite answer. If essential facts are missing or contradictory and cannot be resolved, say the information is insufficient. Do not invent facts or sources. Be concise.",
+  "prompt_sha256_12": "1bc085c218db",
+  "timing": "Time each question and stage; sync MPS to ensure generation time accuracy",
+  "judge": "Custom approximate GPT-4o, votes=1; not official MiniRAG protocol"
+}

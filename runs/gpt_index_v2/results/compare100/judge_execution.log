@@ -1,0 +1,50 @@
+
+===== Judge MiniRAG: 2026-11-08 15:57:11 =====
+/Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/.venv/bin/python /Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/evaluate_minirag_protocol_audited_fixed.py --results /Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/runs/gpt_index_v2/results/mini_hf-portable_Qwen_Qwen2.5-3B-Instruct_k5_compare100.jsonl --judge-model gpt-4o --votes 1 --allow-approximate-judge
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 16
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 16
+WARNING: Using the earlier approximate custom Judge; results are not strict paper reproduction.
+QA records: 100 | judge votes per answer: 1 | remaining calls: 100
+  Judge completed 20/100 calls
+  Judge completed 40/100 calls
+  Judge completed 60/100 calls
+  Judge completed 80/100 calls
+  Judge completed 100/100 calls
+
+=== MiniRAG-style QA metrics (GPT-4o Judge) ===
+Judged: 100/100
+Accuracy (acc):    37.0%
+Error Rate (err):  56.0%
+Abstention Rate:   7.0%
+Saved: /Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/runs/gpt_index_v2/results/mini_hf-portable_Qwen_Qwen2.5-3B-Instruct_k5_compare100_54a662e02b6e_acc_err_summary.json
+Saved: /Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/runs/gpt_index_v2/results/mini_hf-portable_Qwen_Qwen2.5-3B-Instruct_k5_compare100_54a662e02b6e_acc_err_details.csv
+Saved: /Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/runs/gpt_index_v2/results/mini_hf-portable_Qwen_Qwen2.5-3B-Instruct_k5_compare100_54a662e02b6e_acc_err_summary.csv
+Protocol: UNVERIFIED custom judge prompt (not exact paper reproduction)
+Note: results must not be called an exact reproduction without a verified official judge rubric and full experiment alignment.
+
+===== Judge Concept Tree RAG: 2026-11-08 15:57:44 =====
+/Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/.venv/bin/python /Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/evaluate_minirag_protocol_audited_fixed.py --results /Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/runs/gpt_index_v2/results/compare100/concept_tree_hf_mps_100.jsonl --judge-model gpt-4o --votes 1 --allow-approximate-judge
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 16
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 16
+WARNING: Using the earlier approximate custom Judge; results are not strict paper reproduction.
+QA records: 100 | judge votes per answer: 1 | remaining calls: 100
+  Judge completed 20/100 calls
+  Judge completed 40/100 calls
+  Judge completed 60/100 calls
+  Judge completed 80/100 calls
+  Judge completed 100/100 calls
+
+=== MiniRAG-style QA metrics (GPT-4o Judge) ===
+Judged: 100/100
+Accuracy (acc):    29.0%
+Error Rate (err):  34.0%
+Abstention Rate:   37.0%
+Saved: /Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/runs/gpt_index_v2/results/compare100/concept_tree_hf_mps_100_54a662e02b6e_acc_err_summary.json
+Saved: /Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/runs/gpt_index_v2/results/compare100/concept_tree_hf_mps_100_54a662e02b6e_acc_err_details.csv
+Saved: /Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/runs/gpt_index_v2/results/compare100/concept_tree_hf_mps_100_54a662e02b6e_acc_err_summary.csv
+Protocol: UNVERIFIED custom judge prompt (not exact paper reproduction)
+Note: results must not be called an exact reproduction without a verified official judge rubric and full experiment alignment.

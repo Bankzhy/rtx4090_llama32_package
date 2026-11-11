@@ -1,0 +1,4874 @@
+[
+  {
+    "corpus_index": 0,
+    "title": "200+ of the best deals from Amazon's Cyber Monday sale",
+    "source": "Mashable",
+    "published_at": "2023-11-27T08:45:59+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-f24a949ce4737d4fd618cf04f7960c86"
+  },
+  {
+    "corpus_index": 1,
+    "title": "ASX set to drop as Wall Street’s September slump deepens",
+    "source": "The Sydney Morning Herald",
+    "published_at": "2023-09-26T19:11:30+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-1ef2f8b610a70b591144913a1cd3facf"
+  },
+  {
+    "corpus_index": 2,
+    "title": "Amazon sellers sound off on the FTC's 'long-overdue' antitrust case",
+    "source": "Cnbc | World Business News Leader",
+    "published_at": "2023-10-06T21:31:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-564bef143d71173cf2ed0ca847c922d7"
+  },
+  {
+    "corpus_index": 3,
+    "title": "Christmas Day preview: 49ers, Ravens square off in potential Super Bowl sneak peek",
+    "source": "Yardbarker",
+    "published_at": "2023-12-24T23:34:39+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-9926a158bb8900aabf11e8fadb4aaa35"
+  },
+  {
+    "corpus_index": 4,
+    "title": "Raiders vs. Lions live score, updates, highlights from NFL 'Monday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-10-30T22:20:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-5014cd3d68d52e663272ec0b100b9ab6"
+  },
+  {
+    "corpus_index": 5,
+    "title": "UTSA vs. Marshall odds, props, predictions: Roadrunners lay big spread in Frisco Bowl",
+    "source": "Sporting News",
+    "published_at": "2023-12-18T22:29:26+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-776c0020a98648a413fa9beb5abd4067"
+  },
+  {
+    "corpus_index": 6,
+    "title": "North Texas vs. SMU odds, props, predictions: Red hot Mustangs could overpower not-so-Mean Green",
+    "source": "Sporting News",
+    "published_at": "2023-11-07T21:01:59+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-d059ef89cd2439bea448ac7a4162f28b"
+  },
+  {
+    "corpus_index": 7,
+    "title": "How Did the Houston Astros Cheat in 2017? Everything to Know About a Dark Moment in MLB History",
+    "source": "Essentially Sports",
+    "published_at": "2023-10-22T21:30:14+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-2277359f9c50687b9266526a7086a3bd"
+  },
+  {
+    "corpus_index": 8,
+    "title": "Which M.L.B. Playoff Team Has the Most Daunting Home Field? We Ranked Them.",
+    "source": "The New York Times",
+    "published_at": "2023-10-08T21:56:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-919825cd286e8f288f6ec107c2a9ca12"
+  },
+  {
+    "corpus_index": 9,
+    "title": "SBF Trial: The latest updates from the FTX collapse’s courtroom drama",
+    "source": "TechCrunch",
+    "published_at": "2023-10-06T17:22:02+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-10a4931864383122b87d39b1f52a731d"
+  },
+  {
+    "corpus_index": 10,
+    "title": "SBF’s trial starts soon, but how did he — and FTX — get here?",
+    "source": "TechCrunch",
+    "published_at": "2023-10-01T14:00:29+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-421fdc99e570a59d5eb9e2ea8a16e962"
+  },
+  {
+    "corpus_index": 11,
+    "title": "Sam Altman backs teens’ startup, Google unveils the Pixel 8 and TikTok tests an ad-free tier",
+    "source": "TechCrunch",
+    "published_at": "2023-10-07T20:15:26+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-c6458083ddde35d215101794f884dcfd"
+  },
+  {
+    "corpus_index": 12,
+    "title": "Leaky defence ‘isn’t good enough’ and ‘scars’ grow from throwing away leads – It’s all going wrong for Manchester United in Europe",
+    "source": "TalkSport",
+    "published_at": "2023-11-29T23:40:49+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-4b2054250beabf022a1022802e41762d"
+  },
+  {
+    "corpus_index": 13,
+    "title": "Manchester United face Galatasaray with high hopes but bad memories",
+    "source": "The Guardian",
+    "published_at": "2023-11-27T22:30:42+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-29b1b925c2f840ab1359ac9b99b2b7e1"
+  },
+  {
+    "corpus_index": 14,
+    "title": "Apple defends Google Search deal in court: ‘There wasn’t a valid alternative’",
+    "source": "The Verge",
+    "published_at": "2023-09-26T17:01:22+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-7a53ba3190917e578d6181ab81f9c431"
+  },
+  {
+    "corpus_index": 15,
+    "title": "More from the US v Google trial: vertical search, pre-installs and the case of Firefox/Yahoo",
+    "source": "TechCrunch",
+    "published_at": "2023-11-13T14:37:44+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-9d225ccde2b68f7145515070dd3ea711"
+  },
+  {
+    "corpus_index": 16,
+    "title": "How to choose the best class for you in Baldur’s Gate 3",
+    "source": "Polygon",
+    "published_at": "2023-12-18T17:14:20+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-b564f7261cb4a3400e8e82f5e20ff67d"
+  },
+  {
+    "corpus_index": 17,
+    "title": "The best Warlock subclass, feats, and build in Baldur’s Gate 3",
+    "source": "Polygon",
+    "published_at": "2023-12-01T22:53:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-cbc84c030f1722ba2c02caf07698d6c1"
+  },
+  {
+    "corpus_index": 18,
+    "title": "A timeline of Will Smith and Jada Pinkett Smith’s relationship amid separation",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-10-12T18:10:45+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-b1327b75f2ff495c65be05f72d60e3ae"
+  },
+  {
+    "corpus_index": 19,
+    "title": "Country music couples Tim McGraw, Faith Hill and Garth Brooks, Trisha Yearwood share tips to lasting marriages",
+    "source": "FOX News - Entertainment",
+    "published_at": "2023-11-27T11:00:44+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-c29cb650d2f577ef1c47bba7d97b3165"
+  },
+  {
+    "corpus_index": 20,
+    "title": "At 37, Alexandra found herself broke, heartbroken and living with her parents",
+    "source": "The Age",
+    "published_at": "2023-11-25T18:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-10a3b5d9199d209068b2a2f7281323af"
+  },
+  {
+    "corpus_index": 21,
+    "title": "Fans spot Travis Kelce wearing Taylor Swift-themed friendship bracelet before she attended his game",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-09-26T22:05:34+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-a4f9b8d2409c1f65924f3c26b341b68f"
+  },
+  {
+    "corpus_index": 22,
+    "title": "THE GREATEST! Boks beat All Blacks in instant classic to claim record FOURTH RWC in controversial, dramatic final",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-10-28T21:06:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-75a51e78fcb7ed552cc92ec44b3eb87a"
+  },
+  {
+    "corpus_index": 23,
+    "title": "‘It happens’: All Blacks defend star centre after spray as Cheika heaps pressure on ‘favourites’ New Zealand",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-10-18T20:55:55+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-b91736bf9c031a03bc2ee632f3712937"
+  },
+  {
+    "corpus_index": 24,
+    "title": "After warning, the EU opens investigation into X over alleged disinformation",
+    "source": "TechCrunch",
+    "published_at": "2023-10-13T00:38:56+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-33ae5e73e8b4a5108cea8116259764e4"
+  },
+  {
+    "corpus_index": 25,
+    "title": "EU fires urgent warning at Elon Musk’s X over illegal content and disinformation following Hamas attacks",
+    "source": "TechCrunch",
+    "published_at": "2023-10-10T23:47:38+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-46456f845776a337bd2309e6826e3b9a"
+  },
+  {
+    "corpus_index": 26,
+    "title": "Why Mozilla is betting on a decentralized social networking future",
+    "source": "TechCrunch",
+    "published_at": "2023-11-03T17:43:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-7401238b88981a292b579f546673a2fe"
+  },
+  {
+    "corpus_index": 27,
+    "title": "How ego and fear fuelled the rise of artificial intelligence",
+    "source": "The Age",
+    "published_at": "2023-12-09T18:30:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-09debc60e5a56a125cfc690b942becd6"
+  },
+  {
+    "corpus_index": 28,
+    "title": "ASX set for bright start despite Wall Street slip; $A drops",
+    "source": "The Sydney Morning Herald",
+    "published_at": "2023-12-05T21:51:55+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-e821188f8f643b5925a43d39ae5076a8"
+  },
+  {
+    "corpus_index": 29,
+    "title": "ASX set to open higher as Wall Street rebounds; $A rises",
+    "source": "The Age",
+    "published_at": "2023-10-04T21:01:01+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-9c1b8519dd18951d373cfc30fa04cee8"
+  },
+  {
+    "corpus_index": 30,
+    "title": "SBF, riding high on FTX, reportedly offered $5B to Trump to cancel President re-run",
+    "source": "TechCrunch",
+    "published_at": "2023-10-02T13:11:07+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-d46afb2d1c650b13ef5df1a44a381300"
+  },
+  {
+    "corpus_index": 31,
+    "title": "Is Sam Bankman-Fried a bad ‘man’ or a good ‘boy’? Lawyers swap opening statements before first witnesses take the stand",
+    "source": "Fortune",
+    "published_at": "2023-10-04T23:32:53+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-ee65b37d9ba8f851210bf368d643d417"
+  },
+  {
+    "corpus_index": 32,
+    "title": "Is Google Search better than the rest? And is that fair?",
+    "source": "The Age",
+    "published_at": "2023-10-22T18:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-db03a0ac4c185a3e39447a5261ab168a"
+  },
+  {
+    "corpus_index": 33,
+    "title": "News publisher files class action antitrust suit against Google, citing AI’s harms to their bottom line",
+    "source": "TechCrunch",
+    "published_at": "2023-12-15T17:56:02+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-f12bb95b38890719fda4182c116d47e0"
+  },
+  {
+    "corpus_index": 34,
+    "title": "Chiefs vs. Packers live score, updates, highlights from NFL 'Sunday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-12-03T23:00:04+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-e61da804cfb3da42306437cd152c5fe8"
+  },
+  {
+    "corpus_index": 35,
+    "title": "Jaguars vs. Saints live score, updates, highlights from NFL 'Thursday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-10-19T22:00:04+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f0b4991b09a6558b9e6d033e3c1cef31"
+  },
+  {
+    "corpus_index": 36,
+    "title": "Jada Pinkett Smith and Will Smith have been separated since 2016 - when should couples just get divorced?",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-10-16T13:41:30+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-25518b48639eb137938c4bc355df80c4"
+  },
+  {
+    "corpus_index": 37,
+    "title": "Vikings vs. Broncos live score, updates, highlights from NFL 'Sunday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-11-19T23:00:04+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-4d9ebdfb0043c4af921c462235d70431"
+  },
+  {
+    "corpus_index": 38,
+    "title": "There’s something going on with AI startups in France",
+    "source": "TechCrunch",
+    "published_at": "2023-11-09T14:51:44+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-1da5c3c3bd9a3b2d7baad045c95e1fcb"
+  },
+  {
+    "corpus_index": 39,
+    "title": "Amazon’s iRobot purchase sucks up formal competition concerns in EU",
+    "source": "TechCrunch",
+    "published_at": "2023-11-27T23:29:10+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-496ca1740017e0af4e81c3b9b86739ae"
+  },
+  {
+    "corpus_index": 40,
+    "title": "NFL standings: Updated AFC, NFC playoff picture for Week 13 of 2023 season",
+    "source": "Sporting News",
+    "published_at": "2023-12-03T21:49:04+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-932debb9d6f7daccb4be8a33c17492d5"
+  },
+  {
+    "corpus_index": 41,
+    "title": "Chicago Fire vs Inter Miami live score, result, updates, highlights from Lionel Messi in MLS match",
+    "source": "Sporting News",
+    "published_at": "2023-10-04T23:33:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-b36ea16e38d1b43af9a1428d9278603f"
+  },
+  {
+    "corpus_index": 42,
+    "title": "What to know about Fortnite maker Epic Games’ antitrust battle with Google, starting today",
+    "source": "TechCrunch",
+    "published_at": "2023-11-06T16:47:11+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-3da901497bf7fe420ea09d93c5461bfe"
+  },
+  {
+    "corpus_index": 43,
+    "title": "Founders, are events useful?",
+    "source": "TechCrunch",
+    "published_at": "2023-10-13T19:05:37+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-1a6ae2758a4498dc36dcda90a7743e10"
+  },
+  {
+    "corpus_index": 44,
+    "title": "When pop culture and sport collide: A timeline of Taylor Swift’s NFL takeover",
+    "source": "The Age",
+    "published_at": "2023-09-26T05:26:05+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-1ae66da6f6fc8b375e93977a5060ec7e"
+  },
+  {
+    "corpus_index": 45,
+    "title": "Travis Kelce says he tried to delete his ‘nonsense’ tweets before they went viral",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-11-25T14:50:53+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-5ea80e8d722a0947f8d67d4eb6cebe95"
+  },
+  {
+    "corpus_index": 46,
+    "title": "Taylor Swift is Time’s Person of the Year",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-12-06T13:55:17+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-4cac87213939aadc07f05039a0648e7a"
+  },
+  {
+    "corpus_index": 47,
+    "title": "One year later, ChatGPT is still alive and kicking",
+    "source": "TechCrunch",
+    "published_at": "2023-11-30T14:10:43+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-251044080cd032e3b559e4f60a728539"
+  },
+  {
+    "corpus_index": 48,
+    "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+    "source": "TechCrunch",
+    "published_at": "2023-09-28T20:03:39+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-504464b9851aff74c448d7a756eeda76"
+  },
+  {
+    "corpus_index": 49,
+    "title": "A comprehensive list of 2023 tech layoffs",
+    "source": "TechCrunch",
+    "published_at": "2023-09-28T20:04:20+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-b8a7ff383b5b4026efdf413e025f5338"
+  },
+  {
+    "corpus_index": 50,
+    "title": "Video games in 2023: Acquisitions, layoffs, unions",
+    "source": "Engadget",
+    "published_at": "2023-12-19T14:30:37+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-1b1cc5defacf45cb3219270333b78e47"
+  },
+  {
+    "corpus_index": 51,
+    "title": "From Justin Timberlake to Sam Asghari: A timeline of Britney Spears’ relationships",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-10-18T03:46:39+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-969aaeb09195206b5e4c8ae07a6c46a6"
+  },
+  {
+    "corpus_index": 52,
+    "title": "‘I was being ritually tortured’: the most shocking moments in Britney Spears’ memoir",
+    "source": "The Guardian",
+    "published_at": "2023-10-24T18:37:25+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-4a43656bc3f09857fc3c4f0fc6f8e945"
+  },
+  {
+    "corpus_index": 53,
+    "title": "The jury finally hears from Sam Bankman-Fried",
+    "source": "The Verge",
+    "published_at": "2023-10-28T00:12:41+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-cf3ff1946c9be4dbdfeb13a5d54b3d11"
+  },
+  {
+    "corpus_index": 54,
+    "title": "How the OpenAI fiasco could bolster Meta and the ‘open AI’ movement",
+    "source": "TechCrunch",
+    "published_at": "2023-11-21T15:50:50+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-996584319c7d6b4e1832168f327b75b6"
+  },
+  {
+    "corpus_index": 55,
+    "title": "9 great movies to watch on Tubi for free right now",
+    "source": "Polygon",
+    "published_at": "2023-10-25T17:40:45+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-290f3595c637e9aa367db115a576c996"
+  },
+  {
+    "corpus_index": 56,
+    "title": "FanDuel Picks Week 15: Best NFL DFS lineup advice for daily fantasy football tournaments",
+    "source": "Sporting News",
+    "published_at": "2023-12-13T20:28:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-01b5a9cf1d1ed2dea6522ff768a0d2ba"
+  },
+  {
+    "corpus_index": 57,
+    "title": "Fantasy Football Week 13 Lineup Decisions: Starts, Sits, Sleepers, Busts to know for every game",
+    "source": "CBSSports.com",
+    "published_at": "2023-11-30T22:10:58+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-658a2397d28f796bf10566a433160470"
+  },
+  {
+    "corpus_index": 58,
+    "title": "NFL Fantasy Football Week 5 Lineup Decisions: Starts, Sits, Sleepers, Busts to know for every game",
+    "source": "CBSSports.com",
+    "published_at": "2023-10-04T21:56:25+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-e8eb06503eadb87a977ff08dadcee048"
+  },
+  {
+    "corpus_index": 59,
+    "title": "Taylor Swift-Travis Kelce timeline: Everything to know about rumored romance between pop star, Chiefs TE",
+    "source": "CBSSports.com",
+    "published_at": "2023-10-12T23:21:52+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-7977868ccdc02d8cab39925a113e649a"
+  },
+  {
+    "corpus_index": 60,
+    "title": "Line Shopping in Sports Betting - How to Find the Best Odds",
+    "source": "Sporting News",
+    "published_at": "2023-11-06T22:21:05+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-535d5f09ed8e7c0b86cf1d31d42aaccf"
+  },
+  {
+    "corpus_index": 61,
+    "title": "Moneyline Betting - What is the Moneyline and How Does it Work?",
+    "source": "Sporting News",
+    "published_at": "2023-11-01T21:25:48+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-ff422d84bce0541fbc6980fc11bca9b0"
+  },
+  {
+    "corpus_index": 62,
+    "title": "NBA Rookie of the Year Odds - Wembanyama the early favorite",
+    "source": "Sporting News",
+    "published_at": "2023-10-04T22:54:23+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-0869554c01b403b6828196ec8b64d352"
+  },
+  {
+    "corpus_index": 63,
+    "title": "West Indies v England: first T20 international – live",
+    "source": "The Guardian",
+    "published_at": "2023-12-12T21:49:56+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-e5da9a127e801b0b5d0007de10002873"
+  },
+  {
+    "corpus_index": 64,
+    "title": "West Indies v England: fifth and deciding men’s T20 cricket international – live",
+    "source": "The Guardian",
+    "published_at": "2023-12-21T19:39:01+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-4e3f3145942455b9acb8dd4b60a509a3"
+  },
+  {
+    "corpus_index": 65,
+    "title": "After losing her leg to the flu, Virginia woman urges people to get vaccinated: ‘Don’t waste time’",
+    "source": "FOX News - Health",
+    "published_at": "2023-10-18T07:45:47+00:00",
+    "category": "health",
+    "minirag_doc_id": "doc-2ca59038e8fa9fb890a83af82d813cd2"
+  },
+  {
+    "corpus_index": 66,
+    "title": "Ozempic, Wegovy may be linked to stomach paralysis and other digestive issues in large-scale study",
+    "source": "FOX News - Health",
+    "published_at": "2023-10-07T09:30:42+00:00",
+    "category": "health",
+    "minirag_doc_id": "doc-34725c959fd6c9a69e58bb10fcbd7200"
+  },
+  {
+    "corpus_index": 67,
+    "title": "Woman switched at birth spends holidays with birth mom after decades-long search: 'Feel at peace'",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-12-15T09:30:54+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-272e7166755b98706bd8310e6aafeb00"
+  },
+  {
+    "corpus_index": 68,
+    "title": "This Christmas let your home be the centre of the celebrations with these festive ideas from The White Company",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-10-13T15:00:43+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-68ec87184776399d9ec4507d38764f63"
+  },
+  {
+    "corpus_index": 69,
+    "title": "Govee’s colorful LED light strips are on sale just in time for Halloween",
+    "source": "The Verge",
+    "published_at": "2023-10-28T16:40:43+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-9fa25281410083d23319f8275144c40a"
+  },
+  {
+    "corpus_index": 70,
+    "title": "Should you introduce your partner to your family during the holidays? Relationship experts weigh in",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-12-12T16:02:44+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-bbcda47619e5a361e72254e948bfc638"
+  },
+  {
+    "corpus_index": 71,
+    "title": "2023 Kentucky online sports betting sites: Best legal sportsbooks, promos, bonuses, mobile apps, how to bet",
+    "source": "CBSSports.com",
+    "published_at": "2023-10-13T21:17:17+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-ac90a807185bf3797a0d8f71a7bb0864"
+  },
+  {
+    "corpus_index": 72,
+    "title": "Vermont Sportsbook Promos and Sports Betting Launch News",
+    "source": "Sporting News",
+    "published_at": "2023-09-26T22:53:28+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-6d1ec39dde1cb4b485bf05ccb1ba013c"
+  },
+  {
+    "corpus_index": 73,
+    "title": "Psagot worth 80% less since Rani Zim bought it",
+    "source": "Globes English | Israel Business Arena",
+    "published_at": "2023-11-05T13:10:32+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-b37be6ffefa4e8d020b3ca031a2dc9cb"
+  },
+  {
+    "corpus_index": 74,
+    "title": "ASX to open lower; Wall Street falls as the clamp tightens from rising bond yields",
+    "source": "The Age",
+    "published_at": "2023-10-12T20:00:32+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-64476b0d9bef2af8d38c55c449cbacfe"
+  },
+  {
+    "corpus_index": 75,
+    "title": "Here’s how Rainforest, a budding Stripe rival, aims to win over software companies",
+    "source": "TechCrunch",
+    "published_at": "2023-10-08T14:16:01+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-959844263167a647e2d9a13d8355c3b0"
+  },
+  {
+    "corpus_index": 76,
+    "title": "How the conspiracy-fueled Epoch Times went mainstream and made millions",
+    "source": "Hacker News",
+    "published_at": "2023-10-16T03:41:24+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-3ad3e8003f8297b7fe2d21913e395618"
+  },
+  {
+    "corpus_index": 77,
+    "title": "Super Mario Bros. Wonder review: The joy of pure imagination",
+    "source": "Engadget",
+    "published_at": "2023-10-20T14:11:08+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-be35564233a405aedbebf4eee412ee69"
+  },
+  {
+    "corpus_index": 78,
+    "title": "Israel's defense undone by reliance on technology",
+    "source": "Globes English | Israel Business Arena",
+    "published_at": "2023-11-05T13:35:33+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-3daead42a27df470bc2f862199797e8f"
+  },
+  {
+    "corpus_index": 79,
+    "title": "Michigan sign-stealing scandal winners and losers, from Jim Harbaugh to Tony Petitti",
+    "source": "Sporting News",
+    "published_at": "2023-11-11T22:50:13+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-fdfde0bf051b01e2015bca22391c80bb"
+  },
+  {
+    "corpus_index": 80,
+    "title": "Browns survive Bears Hail Mary on wild, near-catch by Darnell Mooney: 'Damn near s— myself'",
+    "source": "Sporting News",
+    "published_at": "2023-12-17T23:06:30+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-689c8ce1a8bb0101791612ccc2e4684f"
+  },
+  {
+    "corpus_index": 81,
+    "title": "The future of DC movies in 2022 and beyond",
+    "source": "Polygon",
+    "published_at": "2023-10-24T15:00:36+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-567909fda53aff1479acbe41f5242a6d"
+  },
+  {
+    "corpus_index": 82,
+    "title": "Mary Jane in Marvel’s Spider-Man 2 Is a Disguised Superhero, in a Good Way",
+    "source": "Essentially Sports",
+    "published_at": "2023-11-01T21:00:28+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-a341e6e4a60d70c70800b2e25499d3b7"
+  },
+  {
+    "corpus_index": 83,
+    "title": "Sam Bankman-Fried didn’t ask where the $8 billion went",
+    "source": "The Verge",
+    "published_at": "2023-10-31T19:52:07+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-e240e1543752c3c1dfad3ecedfc3f342"
+  },
+  {
+    "corpus_index": 84,
+    "title": "La desigualdad del estrés por calor",
+    "source": "Eos: Earth And Space Science News",
+    "published_at": "2023-09-26T12:15:35+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-a8d1f096a52de1a9f518314e10163bfd"
+  },
+  {
+    "corpus_index": 85,
+    "title": "‘AfroFuture’s vision is to bring African art, cuisine, fashion, and music to a global audience.’",
+    "source": "Music Business Worldwide",
+    "published_at": "2023-10-30T20:29:31+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-8e5965983239a8033b2014971f35362c"
+  },
+  {
+    "corpus_index": 86,
+    "title": "Sam Bankman-Fried was a terrible boyfriend",
+    "source": "The Verge",
+    "published_at": "2023-10-10T23:50:21+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-c38d79088ff4de535b7b3cd7652c7c39"
+  },
+  {
+    "corpus_index": 87,
+    "title": "ASX set to open lower as Wall Street closes September with more losses",
+    "source": "The Sydney Morning Herald",
+    "published_at": "2023-10-01T18:19:08+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-aacc444b66dc34ca7c7dec606fa2d55d"
+  },
+  {
+    "corpus_index": 88,
+    "title": "Inter Miami vs FC Cincinnati live score, result, updates, highlights with Lionel Messi's MLS playoffs on line",
+    "source": "Sporting News",
+    "published_at": "2023-10-07T21:30:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-707cb7168ade302ed1face2c4ddb7544"
+  },
+  {
+    "corpus_index": 89,
+    "title": "From Ten Hag’s future to a leaking roof: Ratcliffe’s Manchester United in-tray",
+    "source": "The Guardian",
+    "published_at": "2023-12-25T10:00:20+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-56878cef75691bf0b4cafc1d22035f41"
+  },
+  {
+    "corpus_index": 90,
+    "title": "The best Black Friday deals you can get for under $25",
+    "source": "The Verge",
+    "published_at": "2023-11-23T17:58:09+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-6c823dae886027d2c7af6f0a48a34b21"
+  },
+  {
+    "corpus_index": 91,
+    "title": "The best Apple Cyber Monday deals of 2023: Save on AirPods, iPads, Apple Watches and more",
+    "source": "Engadget",
+    "published_at": "2023-11-27T10:00:30+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-51a159c598d2cc28bc46ec6340ef7cc6"
+  },
+  {
+    "corpus_index": 92,
+    "title": "Everton players and fans will be fired up by points penalty, asserts Sean Dyche",
+    "source": "The Guardian",
+    "published_at": "2023-11-24T22:30:32+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-a1fcb15865a36501d25ad4b85fab08bf"
+  },
+  {
+    "corpus_index": 93,
+    "title": "European football: Eintracht Frankfurt hit Bayern for five in famous thrashing",
+    "source": "The Guardian",
+    "published_at": "2023-12-09T20:46:25+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-a95722d6b10da4acb29629a6005fb650"
+  },
+  {
+    "corpus_index": 94,
+    "title": "The best movies of 2023 so far",
+    "source": "Polygon",
+    "published_at": "2023-10-07T12:38:36+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-f9b03bde167708372049f8592d1bf175"
+  },
+  {
+    "corpus_index": 95,
+    "title": "Mattel slammed for ‘inaccurate’ Cherokee Barbie",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-12-06T18:25:33+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-2c0d4e64248ae8b57688c78b0efbae33"
+  },
+  {
+    "corpus_index": 96,
+    "title": "Discogs’ vibrant vinyl community is shattering",
+    "source": "The Verge",
+    "published_at": "2023-10-07T14:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-a4a8f7ad9cb93f3a4baf276fe81243e6"
+  },
+  {
+    "corpus_index": 97,
+    "title": "Sen. Robert Menendez, facing bribery charges, stumps bank CEOs by asking how much their firms paid in settlements for allegedly ripping off consumers",
+    "source": "Fortune",
+    "published_at": "2023-12-06T21:36:17+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-88b4bf94b5b71936ac29d12d73168354"
+  },
+  {
+    "corpus_index": 98,
+    "title": "Biden’s AI EO hailed as broad, but not deep without legislation to match",
+    "source": "TechCrunch",
+    "published_at": "2023-10-31T14:02:26+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-3c62971528829af5d47315b9b08f0e4a"
+  },
+  {
+    "corpus_index": 99,
+    "title": "How OpenAI's ChatGPT has changed the world in just a year",
+    "source": "Engadget",
+    "published_at": "2023-11-30T14:00:50+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-607a28727ef93d96b17059695a67486a"
+  },
+  {
+    "corpus_index": 100,
+    "title": "Carabao Cup fixtures, draws, results, TV channel, and live streams for every round of EFL League Cup 2023/24",
+    "source": "Sporting News",
+    "published_at": "2023-12-19T22:08:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-66f288495fcc540b721f12c8a08f4665"
+  },
+  {
+    "corpus_index": 101,
+    "title": "Chelsea secure last-eight spot after Raheem Sterling sinks Blackburn",
+    "source": "The Guardian",
+    "published_at": "2023-11-01T22:03:18+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-d40f75c5701fa732140f516cd9c9757d"
+  },
+  {
+    "corpus_index": 102,
+    "title": "He’s Hockey’s Brightest Young Star. This Is What Makes His Shot So Special.",
+    "source": "The New York Times",
+    "published_at": "2023-11-17T21:47:19+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-0d44752df15afa89953446d704884221"
+  },
+  {
+    "corpus_index": 103,
+    "title": "USC basketball futures odds to win Pac-12, NCAA tourney ahead of Bronny James collegiate debut",
+    "source": "Sporting News",
+    "published_at": "2023-12-09T22:09:48+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-d48a112d1cfe8e4d7abbb5506ec7653b"
+  },
+  {
+    "corpus_index": 104,
+    "title": "The best Apple Black Friday deals on iPads, AirPods, Apple Watches and more",
+    "source": "Engadget",
+    "published_at": "2023-11-24T09:30:32+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-9e17b07ab6b44444fae573f3a7d2b484"
+  },
+  {
+    "corpus_index": 105,
+    "title": "Watch Argentina vs Paraguay live stream, TV channel, lineups, betting odds for World Cup qualifying match",
+    "source": "Sporting News",
+    "published_at": "2023-10-12T21:11:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-d4975cd346bf0198b122c81b4ce5e203"
+  },
+  {
+    "corpus_index": 106,
+    "title": "Meta has a moderation bias problem, not just a ‘bug,’ that’s suppressing Palestinian voices",
+    "source": "TechCrunch",
+    "published_at": "2023-10-19T23:43:15+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-500f31844c8754edb9dcdecb84b47bd3"
+  },
+  {
+    "corpus_index": 107,
+    "title": "Norway seeks to extend ban on Meta’s consentless tracking ads across the EU",
+    "source": "TechCrunch",
+    "published_at": "2023-09-28T15:52:16+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-e1c596efc0b4273b8d9c0fa8ed53dd52"
+  },
+  {
+    "corpus_index": 108,
+    "title": "How U.S. Women’s Soccer Team Lured Emma Hayes Away From Chelsea",
+    "source": "The New York Times",
+    "published_at": "2023-11-15T21:40:47+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-458611988e01a49765d9e5219b790017"
+  },
+  {
+    "corpus_index": 109,
+    "title": "Pochettino looks past James mistake and stakes future on his ‘Chelsea DNA’",
+    "source": "The Guardian",
+    "published_at": "2023-10-20T21:30:28+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-d109c60aea943df123197e7fdf30a508"
+  },
+  {
+    "corpus_index": 110,
+    "title": "Arteta reveals Pochettino influence on his career | Poch: He is family",
+    "source": "Sky Sports",
+    "published_at": "2023-10-20T21:30:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-1ce2a7ee449e5445d21b36d294a866db"
+  },
+  {
+    "corpus_index": 111,
+    "title": "Dissecting impact of Israel-Hamas conflict on markets",
+    "source": "Business Line",
+    "published_at": "2023-10-14T15:20:36+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-2b4b2739f69da27fec01b874abe7bcd3"
+  },
+  {
+    "corpus_index": 112,
+    "title": "Buckle up for more ‘turbulence’ in the housing market, BofA says—it’s a housing recession, 1980s style",
+    "source": "Fortune",
+    "published_at": "2023-10-06T20:05:26+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-47b495bff880fa2a6063012bea0c9254"
+  },
+  {
+    "corpus_index": 113,
+    "title": "2023 NFL Week 11 injury roundup: Rams WR Cooper Kupp, Seahawks RB Kenneth Walker III among stars to exit",
+    "source": "CBSSports.com",
+    "published_at": "2023-11-19T23:51:49+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-dc0c345ab074b7200377e92020487ca7"
+  },
+  {
+    "corpus_index": 114,
+    "title": "Fantasy Football WR PPR Rankings Week 13: Who to start, best sleepers at wide receiver",
+    "source": "Sporting News",
+    "published_at": "2023-11-29T20:27:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-924fa8e71c621db011a29153605df3c5"
+  },
+  {
+    "corpus_index": 115,
+    "title": "The people who ruined the internet",
+    "source": "The Verge",
+    "published_at": "2023-11-01T13:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-27c14ad9a2c82c8951e3905402b3022c"
+  },
+  {
+    "corpus_index": 116,
+    "title": "OpenAI hosts a dev day, TechCrunch reviews the M3 iMac and MacBook Pro, and Bumble gets a new CEO",
+    "source": "TechCrunch",
+    "published_at": "2023-11-11T21:15:53+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-c4df6e35a6b2bf26258c4371b044f8d3"
+  },
+  {
+    "corpus_index": 117,
+    "title": "OpenAI buffs safety team and gives board veto power on risky AI",
+    "source": "TechCrunch",
+    "published_at": "2023-12-18T20:12:25+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-2d7bf07534bd7075aeed31716b7379a1"
+  },
+  {
+    "corpus_index": 118,
+    "title": "Top 25 MLB offseason trade candidates",
+    "source": "Yardbarker",
+    "published_at": "2023-11-13T23:16:32+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-090f6e1263ab40840d9ed6950eabf9ba"
+  },
+  {
+    "corpus_index": 119,
+    "title": "NFL power rankings: Lions, 49ers level up; Texans jump Bengals, Bills; Jets, Patriots sink to bottom for Week 11",
+    "source": "Sporting News",
+    "published_at": "2023-11-13T21:54:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-a0daa245c81eb31b7272b8b8d2225db3"
+  },
+  {
+    "corpus_index": 120,
+    "title": "MLB Winter Meetings tracker: Live updates on news, rumors, signings and trades for 2023 free agency",
+    "source": "Sporting News",
+    "published_at": "2023-12-03T23:24:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-347bb7f35f20b36e80960132671697d2"
+  },
+  {
+    "corpus_index": 121,
+    "title": "In the end, the FTX trial was about the friends screwed along the way",
+    "source": "The Verge",
+    "published_at": "2023-10-26T12:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-8cdef9c8c2f53339872f6e19d2c9db0e"
+  },
+  {
+    "corpus_index": 122,
+    "title": "The best Sorcerer builds and skills in Diablo 4",
+    "source": "Polygon",
+    "published_at": "2023-10-18T21:43:17+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-9deb23997fb75c915fa94a8c4d99f11e"
+  },
+  {
+    "corpus_index": 123,
+    "title": "The best Barbarian builds and skills in Diablo 4",
+    "source": "Polygon",
+    "published_at": "2023-10-19T17:16:31+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-212012128f0c5c57e2294f635cba4ff8"
+  },
+  {
+    "corpus_index": 124,
+    "title": "People are turning to Snap Map for firsthand perspectives from Gaza",
+    "source": "TechCrunch",
+    "published_at": "2023-11-03T17:24:18+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-032ce1fd00cfac51b6a8892f1404717f"
+  },
+  {
+    "corpus_index": 125,
+    "title": "\"There are no sacred numbers\"",
+    "source": "Globes English | Israel Business Arena",
+    "published_at": "2023-10-12T18:50:29+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-14e7ce1431159725932d2a7dd4c1b8f8"
+  },
+  {
+    "corpus_index": 126,
+    "title": "Early impressions of Google’s Gemini aren’t great",
+    "source": "TechCrunch",
+    "published_at": "2023-12-07T16:12:30+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-d1627ec60bcea3df14f3bc75637de7cc"
+  },
+  {
+    "corpus_index": 127,
+    "title": "The restaurant nearest Google",
+    "source": "The Verge",
+    "published_at": "2023-10-26T13:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-79b57688594e287898dc964163f61e04"
+  },
+  {
+    "corpus_index": 128,
+    "title": "Young Taylor Swift fans go viral for struggling to open the star's CD: 'Making me laugh'",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-11-11T10:00:36+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-03b449ae0849f24388ab9f27618159a7"
+  },
+  {
+    "corpus_index": 129,
+    "title": "Man United vs Chelsea final score, result and highlights as Scott McTominay brace gives Ten Hag vital win",
+    "source": "Sporting News",
+    "published_at": "2023-12-06T23:27:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-ec406cb973de3b4e7d0c0bb9facf75bb"
+  },
+  {
+    "corpus_index": 130,
+    "title": "Meet the American who made cranberries a Turkey Day tradition, Marcus Urann, farmer with can-do spirit",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-11-23T08:50:55+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-22992dcd4d033bfab869e6ffe70a26d1"
+  },
+  {
+    "corpus_index": 131,
+    "title": "Cranberries: A Thanksgiving Staple With a Rich History and Unique Biology",
+    "source": "Scitechdaily | Science Space And Technology News 2017",
+    "published_at": "2023-11-21T20:46:17+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-89c045f7f64735e2bf0ed68b1bfa0ad4"
+  },
+  {
+    "corpus_index": 132,
+    "title": "UK View: ‘A bridge too far’ – Boycott, former greats tear into ‘dysfunctional’ Poms with World Cup defence all but dead",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-10-26T23:01:13+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-bbce7a30485d9e2cef63594f3b43a6ee"
+  },
+  {
+    "corpus_index": 133,
+    "title": "ICC World Cup 2023: India at Cricket World Cup semi-finals so far",
+    "source": "Zee Business",
+    "published_at": "2023-11-11T19:12:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-ab0ba6c9458b3a1e5b1212ef7b5a8f84"
+  },
+  {
+    "corpus_index": 134,
+    "title": "&#039;Massive intel failure by Mossad&#039;: Hamas&#039; surprise attack on Israel shocks internet",
+    "source": "Business Today | Latest Stock Market And Economy News India",
+    "published_at": "2023-10-07T15:37:43+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-976c170c2c342a046eb75a63b5380831"
+  },
+  {
+    "corpus_index": 135,
+    "title": "Israel's blockade of Gaza means that a region the size of Philadelphia faces a real risk of starvation, says Peace Studies scholar",
+    "source": "Fortune",
+    "published_at": "2023-10-13T19:50:48+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-4e0fc45d8e6ca32820715991a40c156b"
+  },
+  {
+    "corpus_index": 136,
+    "title": "The obsessive tormenter who made professors’ lives miserable",
+    "source": "The Verge",
+    "published_at": "2023-10-25T13:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-9a64b17ca8d8b28ccac7391b7e7a33ec"
+  },
+  {
+    "corpus_index": 137,
+    "title": "Day of Reckoning -- featuring Anthony Joshua, Deontay Wilder: Predictions, undercard, odds, picks, start time",
+    "source": "CBSSports.com",
+    "published_at": "2023-12-23T21:01:30+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-0419ddf508fbd107c817b26c08b0a027"
+  },
+  {
+    "corpus_index": 138,
+    "title": "Gen Z just saw the worst war in Israel in 50 years break out all over the internet, but they were raised on 'disturbing images'",
+    "source": "Fortune",
+    "published_at": "2023-10-10T20:17:09+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-a30b0a9017257626d6cf0040bb8c8be6"
+  },
+  {
+    "corpus_index": 139,
+    "title": "Patterns of Surface Warming Matter for Climate Sensitivity",
+    "source": "Eos: Earth And Space Science News",
+    "published_at": "2023-10-31T12:03:09+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-de6297878db0a27dc3a032ca5c75b27d"
+  },
+  {
+    "corpus_index": 140,
+    "title": "European consumer groups band together to fight Meta’s self-serving ad-free sub — branding it ‘unfair’ and ‘illegal’",
+    "source": "TechCrunch",
+    "published_at": "2023-11-30T05:00:57+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-9da2f1e5617bea0cd0f838cfc3c5047c"
+  },
+  {
+    "corpus_index": 141,
+    "title": "Meta seeks legislation that would require parents to approve teens’ app downloads",
+    "source": "TechCrunch",
+    "published_at": "2023-11-15T17:13:10+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-aad652201dc32534ae51bf5561230770"
+  },
+  {
+    "corpus_index": 142,
+    "title": "City old boy has final say for Chelsea in eight-goal thriller, supreme Salah leads Liverpool surge",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-11-12T20:48:50+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-989b909d9605615b9160ddbc84a6765d"
+  },
+  {
+    "corpus_index": 143,
+    "title": "Dolphins vs. Eagles live score, updates, highlights from NFL 'Sunday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-10-22T23:28:04+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-5955158e4aa90e45305a05c2887ce7e9"
+  },
+  {
+    "corpus_index": 144,
+    "title": "Bears vs. Vikings live score, updates, highlights from NFL 'Monday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-11-27T23:32:04+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-426e0f6c4a06b7991639d1c39ac23c13"
+  },
+  {
+    "corpus_index": 145,
+    "title": "NFL awards odds: Six longshots bettors should consider for MVP, OPOY, DPOY and more",
+    "source": "Sporting News",
+    "published_at": "2023-12-05T20:45:25+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-812c41e7459f48824faece6c35fa43af"
+  },
+  {
+    "corpus_index": 146,
+    "title": "Fantasy Football Week 16 Wide Receiver Preview: Waiver adds, DFS plays, and more",
+    "source": "CBSSports.com",
+    "published_at": "2023-12-19T20:51:32+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-61496a0f46329aacef2ffdb3571c88f7"
+  },
+  {
+    "corpus_index": 147,
+    "title": "Want to help your kids achieve their potential? This expert has some advice",
+    "source": "The Age",
+    "published_at": "2023-12-01T18:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-30448e163534be1a265cfddf5f5190a9"
+  },
+  {
+    "corpus_index": 148,
+    "title": "The 5 biggest mistakes parents make at Christmastime, according to a parenting expert",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-12-09T19:46:55+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-c263b21ae04aeda50a8995f0a86fa569"
+  },
+  {
+    "corpus_index": 149,
+    "title": "NFL Fantasy Football Week 6 Lineup Decisions: Starts, Sits, Sleepers, Busts to know for every game",
+    "source": "CBSSports.com",
+    "published_at": "2023-10-12T21:23:16+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-c2a9cb46b3bd88e9e5be649ee544835a"
+  },
+  {
+    "corpus_index": 150,
+    "title": "NFL roundup: Pats hit new low as Lions reach 9-3 for first time since 1962",
+    "source": "The Guardian",
+    "published_at": "2023-12-03T22:11:26+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-2e2146adc45a2ea6a8f6083b6d9bf2c2"
+  },
+  {
+    "corpus_index": 151,
+    "title": "Wullaert Fires Belgium to 3-2 Home Win over England In UEFA Women’s Nations League",
+    "source": "Sport Grill",
+    "published_at": "2023-10-31T21:42:17+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f5a0c6524c3eb2f77d1529387c404f75"
+  },
+  {
+    "corpus_index": 152,
+    "title": "Salah seals emphatic Europa League win for Liverpool against Toulouse",
+    "source": "The Guardian",
+    "published_at": "2023-10-26T21:00:42+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-af3074ae7563c31e839d08fab7bfb3a1"
+  },
+  {
+    "corpus_index": 153,
+    "title": "Elon Musk’s X faces first DSA probe in EU over illegal content risks, moderation, transparency and deceptive UX design",
+    "source": "TechCrunch",
+    "published_at": "2023-12-18T13:04:56+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-c84874354aabb50c80fb816c35906bf9"
+  },
+  {
+    "corpus_index": 154,
+    "title": "The best shows to stream in December",
+    "source": "The Sydney Morning Herald",
+    "published_at": "2023-11-30T22:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-09fab5692f59c03c3169d3d8d2c0b1b9"
+  },
+  {
+    "corpus_index": 155,
+    "title": "After a Stunning Snub, College Football Is Facing an Identity Crisis",
+    "source": "The New York Times",
+    "published_at": "2023-12-03T23:04:37+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-acc113a45b6c35d47e8a63660e7640e8"
+  },
+  {
+    "corpus_index": 156,
+    "title": "Power struggle in one of Canada’s wealthiest clans has sister accusing chairman brother of ‘vendetta’",
+    "source": "Fortune",
+    "published_at": "2023-10-12T22:22:46+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-b6d7513f96e18383752009dc37468a9f"
+  },
+  {
+    "corpus_index": 157,
+    "title": "Jamaica vs Canada live score, result, updates, highlights from CONCACAF Nations League quarterfinal first leg",
+    "source": "Sporting News",
+    "published_at": "2023-11-17T21:48:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-832ceb69f1cd72df828b78d1945b6987"
+  },
+  {
+    "corpus_index": 158,
+    "title": "Suicide prevention program at Nebraska children's hospital emphasizes encouraging, 'life-saving' notes",
+    "source": "FOX News - Health",
+    "published_at": "2023-10-18T09:30:30+00:00",
+    "category": "health",
+    "minirag_doc_id": "doc-1d69dbe163a6d342a4540b2b35e7fbec"
+  },
+  {
+    "corpus_index": 159,
+    "title": "Will Smith speaks to crowd about ‘tumultuous’ relationship with Jada Pinkett Smith",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-10-19T16:16:20+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-50cd52cc086d1b664c622747dae1b3e6"
+  },
+  {
+    "corpus_index": 160,
+    "title": "When it comes to generative AI in the enterprise, CIOs are taking it slow",
+    "source": "TechCrunch",
+    "published_at": "2023-12-15T18:45:09+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-de5294f8ae505a79a2fbf067ea959a42"
+  },
+  {
+    "corpus_index": 161,
+    "title": "6 VCs explain how startups can capture and defend marketshare in the AI era",
+    "source": "TechCrunch",
+    "published_at": "2023-10-13T20:01:40+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-61f993d335de733e2ea562ffc581d413"
+  },
+  {
+    "corpus_index": 162,
+    "title": "Is Sam Bankman-Fried’s defense even trying to win?",
+    "source": "The Verge",
+    "published_at": "2023-10-04T23:02:14+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-6e7ec41260b9d2676dbb93ce6377ca45"
+  },
+  {
+    "corpus_index": 163,
+    "title": "Mayo Clinic sees AI as 'transformative force' in health care, appoints Dr. Bhavik Patel as chief AI officer",
+    "source": "FOX News - Health",
+    "published_at": "2023-10-10T09:30:18+00:00",
+    "category": "health",
+    "minirag_doc_id": "doc-d6cab908ee108186834c4814bb84bf97"
+  },
+  {
+    "corpus_index": 164,
+    "title": "California’s privacy watchdog eyes AI rules with opt-out and access rights",
+    "source": "TechCrunch",
+    "published_at": "2023-11-27T17:30:24+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-e58ddb2d5f55803fd4067a031c92429b"
+  },
+  {
+    "corpus_index": 165,
+    "title": "The Halloween Countdown: 31 days of horror to watch",
+    "source": "Polygon",
+    "published_at": "2023-10-10T15:27:53+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-749bee2d501ca2ccde8c98224f225562"
+  },
+  {
+    "corpus_index": 166,
+    "title": "Paul Mitchell signed Tottenham and Chelsea superstars, fell out with Daniel Levy and has tailor-made plan for Manchester United",
+    "source": "TalkSport",
+    "published_at": "2023-10-16T21:00:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-daf2894773c04de7fdf15b92609c34b5"
+  },
+  {
+    "corpus_index": 167,
+    "title": "Where to watch England vs South Africa: Live stream, TV channel, lineups, odds for 2023 Rugby World Cup semifinal",
+    "source": "Sporting News",
+    "published_at": "2023-10-20T22:00:05+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-e17fff25d6fe0a1f17de661c5dba4bf9"
+  },
+  {
+    "corpus_index": 168,
+    "title": "The story behind anguished Wallabies star's photo",
+    "source": "Wide World Of Sports",
+    "published_at": "2023-10-07T22:10:40+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-9164ca6f017074582bd41607191f985c"
+  },
+  {
+    "corpus_index": 169,
+    "title": "Steam Deck OLED review: It's just better",
+    "source": "Engadget",
+    "published_at": "2023-11-09T18:00:38+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-f98965582958d82f0a0d118a767e06b6"
+  },
+  {
+    "corpus_index": 170,
+    "title": "Tim Sweeney on Epic’s victory royale over Google",
+    "source": "The Verge",
+    "published_at": "2023-12-12T19:17:14+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-bbddb5b255555dfbb8e198b3a9557882"
+  },
+  {
+    "corpus_index": 171,
+    "title": "How shooting Beyoncé and Kamala Harris made this photographer famous too",
+    "source": "The Age",
+    "published_at": "2023-11-27T23:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-ab5476b703b2c2bdfdf69ca463c4ea45"
+  },
+  {
+    "corpus_index": 172,
+    "title": "‘Bleeds green and gold’: Ballsy career-saving call that’s delivered Arnie a record-breaking moment",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-11-13T23:01:20+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-479e9d2ec3d0a3fed8e800aab0996494"
+  },
+  {
+    "corpus_index": 173,
+    "title": "Beyoncé tops box office with $21 million debut for concert film ‘Renaissance’",
+    "source": "Fortune",
+    "published_at": "2023-12-03T19:51:02+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-08b690b48f1b22b9f8f6a262c6d87b2b"
+  },
+  {
+    "corpus_index": 174,
+    "title": "Travis Kelce faces backlash after comments about ‘finding a breeder’ resurface amid Taylor Swift romance",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-10-30T20:56:51+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-009dcbdf8e4dbe33850ed46ba626190d"
+  },
+  {
+    "corpus_index": 175,
+    "title": "The FTX trial is bigger than Sam Bankman-Fried",
+    "source": "The Verge",
+    "published_at": "2023-09-28T12:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-4d8a5a4971b21f8116342b14176fbbd3"
+  },
+  {
+    "corpus_index": 176,
+    "title": "Legacy vs ego: The Springboks are playing for South Africa, the All Blacks are playing for themselves",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-10-26T22:19:21+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-cdd5275dd2fa6ffc41022415358dafed"
+  },
+  {
+    "corpus_index": 177,
+    "title": "Arnold Schwarzenegger, Reese Witherspoon parent with tough love: 'Learning from failure'",
+    "source": "FOX News - Entertainment",
+    "published_at": "2023-10-10T08:00:40+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-db90f73add1f35fd04900e264907cb1c"
+  },
+  {
+    "corpus_index": 178,
+    "title": "Sarah Michelle Gellar hits out at Roblox after her son’s account gets hacked",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-12-06T16:45:51+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-51a9ea25892858e961c83679deea21f0"
+  },
+  {
+    "corpus_index": 179,
+    "title": "2024 NFL Mock Draft: Bengals' Joe Burrow gets another playmaker; four QBs go in Round 1, but Pats opt for WR",
+    "source": "CBSSports.com",
+    "published_at": "2023-11-17T20:07:09+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-50092381ae2bb4bed066a794a40c808c"
+  },
+  {
+    "corpus_index": 180,
+    "title": "Michigan sign-stealing scandal news: Latest updates on possible Jim Harbaugh suspension from NCAA cheating investigation",
+    "source": "Sporting News",
+    "published_at": "2023-11-06T23:58:04+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-9a166276ef8d9791c96e641bea6bc362"
+  },
+  {
+    "corpus_index": 181,
+    "title": "The fate of US venture capital in China teeters on uncertainty",
+    "source": "TechCrunch",
+    "published_at": "2023-11-25T09:32:47+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-88a4a3f948e5e1d9976b6efe535785a8"
+  },
+  {
+    "corpus_index": 182,
+    "title": "Japan’s prime minister Kishida says: ‘reassess our economy’",
+    "source": "Financial Times",
+    "published_at": "2023-10-01T23:01:09+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-819b893eccaa95b9b8b27855afff046f"
+  },
+  {
+    "corpus_index": 183,
+    "title": "Thursday Night Football FanDuel Picks: NFL DFS lineup advice for Week 4 Lions-Packers single-game tournaments",
+    "source": "Sporting News",
+    "published_at": "2023-09-26T21:53:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f345954c3e2394f49cb92fd4f518e990"
+  },
+  {
+    "corpus_index": 184,
+    "title": "England thrash Scotland but cannot avoid Team GB Olympic heartbreak",
+    "source": "The Guardian",
+    "published_at": "2023-12-05T21:56:19+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-0cdfe06d7a0afaaba1b3ca8efd62de80"
+  },
+  {
+    "corpus_index": 185,
+    "title": "The best new TV series on every streaming service",
+    "source": "Polygon",
+    "published_at": "2023-10-25T16:09:11+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-85ef807c9168edf3bacc960517f31336"
+  },
+  {
+    "corpus_index": 186,
+    "title": "NASCAR Might Have Just Saved Themselves With the $7.7 Billion Media Rights Deal",
+    "source": "Essentially Sports",
+    "published_at": "2023-12-01T20:55:57+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-b4ef6507b4bbf715621423d530a371e2"
+  },
+  {
+    "corpus_index": 187,
+    "title": "Champions League permutations, scenarios: What teams need to qualify from groups for 2023/24 Round of 16 stage",
+    "source": "Sporting News",
+    "published_at": "2023-12-12T21:28:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-01e649ca277a0f9733b8a33c86a9ddd5"
+  },
+  {
+    "corpus_index": 188,
+    "title": "Amazon brings conversational AI to kids with launch of ‘Explore with Alexa’",
+    "source": "TechCrunch",
+    "published_at": "2023-10-25T13:00:49+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-219e42dd65b08472aca7b4c36dff96b4"
+  },
+  {
+    "corpus_index": 189,
+    "title": "‘Mass breach of privacy’: TikTok under fire for tracking users online",
+    "source": "The Age",
+    "published_at": "2023-12-25T18:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-a4d0f2af3dbd16d823f27af4a8fc3e4a"
+  },
+  {
+    "corpus_index": 190,
+    "title": "Tires are saving us — and killing us, too",
+    "source": "The Verge",
+    "published_at": "2023-11-17T13:45:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-086b841ff3942d1f3a2dcf022299984f"
+  },
+  {
+    "corpus_index": 191,
+    "title": "Digital twin market: Analyzing growth and 4 emerging trends",
+    "source": "Iot Business News",
+    "published_at": "2023-11-18T16:01:30+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-87d9be4228718c27249da587b3715c02"
+  },
+  {
+    "corpus_index": 192,
+    "title": "Martin Scorsese’s late-stage career has proved Quentin Tarantino wrong",
+    "source": "Polygon",
+    "published_at": "2023-10-26T14:02:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-b15bfa4d7f8ba91b250d0055151de7ae"
+  },
+  {
+    "corpus_index": 193,
+    "title": "Martin Scorsese gets quizzed by his daughter on internet slang",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-10-10T14:00:16+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-a66a07a0d83a8012e98b184c493009fb"
+  },
+  {
+    "corpus_index": 194,
+    "title": "Potential Conor McGregor Fight Could Help Canelo Alvarez Come a Step Closer to Surpass Floyd Mayweather’s Net Worth and His Billionaire Status",
+    "source": "Essentially Sports",
+    "published_at": "2023-10-18T21:27:46+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-d4bfe80c56dbad36f16d12952725631f"
+  },
+  {
+    "corpus_index": 195,
+    "title": "X plans to use payment, phone and ID verification to stop bots, in addition to the new $1/yr fee",
+    "source": "TechCrunch",
+    "published_at": "2023-10-18T17:33:48+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-de42dbccdb5e672e4c0e676d75e16490"
+  },
+  {
+    "corpus_index": 196,
+    "title": "With Amo, the founder of Zenly wants to make social apps social again",
+    "source": "TechCrunch",
+    "published_at": "2023-11-19T12:07:20+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-259c252e591f1459bb5f9feaa6c775a0"
+  },
+  {
+    "corpus_index": 197,
+    "title": "Fantasy Football WR PPR Rankings Week 14: Who to start, best sleepers at wide receiver",
+    "source": "Sporting News",
+    "published_at": "2023-12-07T22:11:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-c9486096e7a1e2c70c961a07143933db"
+  },
+  {
+    "corpus_index": 198,
+    "title": "Fantasy Football RB Rankings Week 14: Who to start, best sleepers at running back",
+    "source": "Sporting News",
+    "published_at": "2023-12-07T22:07:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-c15b91bab48ef5808e5d7ee2dcf39ac6"
+  },
+  {
+    "corpus_index": 199,
+    "title": "If your startup doesn’t seem impossible at first, it’s not hard enough",
+    "source": "TechCrunch",
+    "published_at": "2023-11-03T19:05:30+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-e616873163fa3eb379b2d57da48b9e8f"
+  },
+  {
+    "corpus_index": 200,
+    "title": "Chiefs vs. Jets live score, updates, highlights from NFL 'Sunday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-10-01T23:47:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-c4b4f3f923ed305c87e495eaa1b82a2c"
+  },
+  {
+    "corpus_index": 201,
+    "title": "Prop Betting - What is a Prop Bet?",
+    "source": "Sporting News",
+    "published_at": "2023-11-06T21:23:22+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-3c07905d0309ba8866091e026fa8b234"
+  },
+  {
+    "corpus_index": 202,
+    "title": "Best sportsbook bonus offers for NFL Monday Night Football Eagles vs. Seahawks: Claim over $5,000 in bonuses from Bet365, BetMGM, BetRivers, Caesars Sportsbook, DraftKings and FanDuel",
+    "source": "Sporting News",
+    "published_at": "2023-12-18T21:00:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-e4e01d94568edf1ea1abc30d2427894b"
+  },
+  {
+    "corpus_index": 203,
+    "title": "Inter Miami season tickets: Lionel Messi demand causes 2024 prices soar to most expensive in world",
+    "source": "Sporting News",
+    "published_at": "2023-10-04T22:12:56+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-878d97d6c0c0ecdff3d4e646525f5ed6"
+  },
+  {
+    "corpus_index": 204,
+    "title": "Man United vs Chelsea head to head record, all-time results between Premier League giants",
+    "source": "Sporting News",
+    "published_at": "2023-12-05T20:30:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-77369f816f13e337d75066d66757baad"
+  },
+  {
+    "corpus_index": 205,
+    "title": "The best Prime Day smart home deals",
+    "source": "The Verge",
+    "published_at": "2023-10-10T20:12:26+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-8d7d5f066800adb8ff6fabbddb84fdbe"
+  },
+  {
+    "corpus_index": 206,
+    "title": "England choose survival over oblivion and a chance of summer trip to France | Jonathan Liew",
+    "source": "The Guardian",
+    "published_at": "2023-12-01T22:57:40+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-b1987eef302bc9214d27d8a96684b644"
+  },
+  {
+    "corpus_index": 207,
+    "title": "Best Golf Betting Sites and Apps - Top Sportsbooks for Golf 2023",
+    "source": "Sporting News",
+    "published_at": "2023-10-13T21:38:36+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f2bb9e5aa51f08924012a7f44a34fe51"
+  },
+  {
+    "corpus_index": 208,
+    "title": "Comeback kings Richmond take the AFLW points in Cairns",
+    "source": "The Age",
+    "published_at": "2023-10-20T23:51:34+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-b920dfa23feae65487df671e94c3a437"
+  },
+  {
+    "corpus_index": 209,
+    "title": "Ground-breaking Gold Coast: Suns make AFLW finals for a second time",
+    "source": "The Age",
+    "published_at": "2023-11-03T23:45:04+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-80c88f3469acc58db7dabba3fff1b1a9"
+  },
+  {
+    "corpus_index": 210,
+    "title": "Craft beer and cheese boxes: Swans tap into something ‘uniquely Sydney’ to draw AFLW crowds | Jack Snape",
+    "source": "The Guardian",
+    "published_at": "2023-10-26T23:42:29+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-852f8be8572ef3a34db33591fabe6c48"
+  },
+  {
+    "corpus_index": 211,
+    "title": "‘Latin artists have been paving the way for deals that offer more control, transparency, and better economics.’",
+    "source": "Music Business Worldwide",
+    "published_at": "2023-12-07T20:32:11+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-4603c4d7c439d1f49c440d9d2816dfbf"
+  },
+  {
+    "corpus_index": 212,
+    "title": "Michelle Jubelirer on Ice Spice, The Beatles, and reinventing Capitol Music Group: ‘I don’t think any label group has been able to turn things around as quickly as my team and I have done in less than two years.’",
+    "source": "Music Business Worldwide",
+    "published_at": "2023-12-07T20:57:51+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-3ce566ce5089a4065860fcaaa89bb910"
+  },
+  {
+    "corpus_index": 213,
+    "title": "The best video games of the year so far",
+    "source": "Polygon",
+    "published_at": "2023-10-31T16:30:45+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-e226c19248bfb96084037edb78763f93"
+  },
+  {
+    "corpus_index": 214,
+    "title": "Microsoft Activision: What does deal mean for gamers?",
+    "source": "BBC News - Technology",
+    "published_at": "2023-10-13T23:01:24+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-f47f33f40a6409d6cc9872742d244369"
+  },
+  {
+    "corpus_index": 215,
+    "title": "Nike misses revenue expectations for the first time in two years, beats on earnings and gross margin",
+    "source": "Cnbc | World Business News Leader",
+    "published_at": "2023-09-28T20:31:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-0cf1f91d84b23acac5f1d416b5262419"
+  },
+  {
+    "corpus_index": 216,
+    "title": "Why Gogoro picked India as its new go-to market",
+    "source": "TechCrunch",
+    "published_at": "2023-12-19T04:10:35+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-b27d589d9ac3ff725137bd8be75538db"
+  },
+  {
+    "corpus_index": 217,
+    "title": "Office rents in Israel stay firm - for now",
+    "source": "Globes English | Israel Business Arena",
+    "published_at": "2023-12-03T15:15:32+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-141344fa706330c374cf4ae4929be162"
+  },
+  {
+    "corpus_index": 218,
+    "title": "'Too big to fail' Egypt faces economic crisis but has an anti-Gaza refugee policy. Israel and the U.S. hope that will change",
+    "source": "Fortune",
+    "published_at": "2023-10-22T15:15:47+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-0be7b8449693976666070b6b94ad4d58"
+  },
+  {
+    "corpus_index": 219,
+    "title": "Erik ten Hag could pay the price for Manchester United’s incompetent Champions League campaign",
+    "source": "The Independent - Sports",
+    "published_at": "2023-12-12T22:36:20+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-dd85de509d7e6eec4cac9baf69c26416"
+  },
+  {
+    "corpus_index": 220,
+    "title": "McRae reveals hidden message he carried under collar of his grand final shirt",
+    "source": "The Sydney Morning Herald",
+    "published_at": "2023-09-30T22:45:39+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f84b67e512a8d2179d6ac438e4f658b8"
+  },
+  {
+    "corpus_index": 221,
+    "title": "This horror flick boasts the best opening 13 minutes of a film you’ll see this year",
+    "source": "The Age",
+    "published_at": "2023-11-15T18:30:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-05ff8e9df2b0cb361caddfed8c858131"
+  },
+  {
+    "corpus_index": 222,
+    "title": "The 53 best Black Friday deals we could find at Amazon, Walmart, Target and more",
+    "source": "Engadget",
+    "published_at": "2023-11-19T15:13:23+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-dc79137d242edc155f73d3aea9a51b46"
+  },
+  {
+    "corpus_index": 223,
+    "title": "Republicans dump Jim Jordan as House Speaker nominee, leaving Congress in crisis yet again",
+    "source": "Fortune",
+    "published_at": "2023-10-20T19:10:22+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-193f345463dabaaed859fb0e692d6bd2"
+  },
+  {
+    "corpus_index": 224,
+    "title": "Michigan conquers Ohio State again, but the story is far from over for 2023 Wolverines",
+    "source": "Sporting News",
+    "published_at": "2023-11-25T23:20:56+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-9438dda952d223d848733dbde5f1fbbc"
+  },
+  {
+    "corpus_index": 225,
+    "title": "Colorado vs. UCLA live score, updates, highlights from Week 9 college football game",
+    "source": "Sporting News",
+    "published_at": "2023-10-28T22:08:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-38ddcc1997e4a0fb10f6e4e5ea093554"
+  },
+  {
+    "corpus_index": 226,
+    "title": "Sex, Signal messages, and sabotaging FTX's code: SBF execs and Bahamas roommates tell all in court",
+    "source": "Cnbc | World Business News Leader",
+    "published_at": "2023-10-06T20:17:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-21ab166b130e1dc306b23c7e976221f8"
+  },
+  {
+    "corpus_index": 227,
+    "title": "Robin Williams' drug addiction made him 'a monster': Friends recall depth of actor's cocaine use",
+    "source": "FOX News - Entertainment",
+    "published_at": "2023-10-19T17:22:01+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-8311854f31d40d44b6a8fc039307601e"
+  },
+  {
+    "corpus_index": 228,
+    "title": "Top ten craziest fight endings in boxing history – Floyd Mayweather’s ruthless KO, Mike Tyson’s bite and a baffled Lennox Lewis",
+    "source": "TalkSport",
+    "published_at": "2023-11-15T20:00:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-3f9d6adea97d1bcc1a4f097f8356b3d4"
+  },
+  {
+    "corpus_index": 229,
+    "title": "The best VPN services for 2023",
+    "source": "Engadget",
+    "published_at": "2023-10-16T16:18:17+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-041d2448069f192ed926c6decc299607"
+  },
+  {
+    "corpus_index": 230,
+    "title": "Keep Labs’ smart storage redefines medication management",
+    "source": "TechCrunch",
+    "published_at": "2023-10-04T19:24:25+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-56f9655f2c230cb15312619f58612c2f"
+  },
+  {
+    "corpus_index": 231,
+    "title": "USA squad for October friendlies 2023: USMNT roster for friendly matches vs Germany, Ghana",
+    "source": "Sporting News",
+    "published_at": "2023-10-04T22:42:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f0ca4843062b87f3ff8c2cbaa69202a9"
+  },
+  {
+    "corpus_index": 232,
+    "title": "Canada vs Jamaica live score, updates, highlights, result from CONCACAF Nations League quarterfinal second leg",
+    "source": "Sporting News",
+    "published_at": "2023-11-21T22:35:30+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-5e0d4754c65e01a10a3f88d3bf9a355d"
+  },
+  {
+    "corpus_index": 233,
+    "title": "A scientist reckons with climate grief",
+    "source": "Yahoo News",
+    "published_at": "2023-12-24T13:06:02+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-bb1e94ee267b82faf92d37c2b81763be"
+  },
+  {
+    "corpus_index": 234,
+    "title": "Hitting the Books: We are the frogs in the boiling pot, it's time we started governing like it.",
+    "source": "Engadget",
+    "published_at": "2023-10-01T14:30:34+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-79d0de3b36d76258c5c8a6be53b15114"
+  },
+  {
+    "corpus_index": 235,
+    "title": "The best October Prime Day gaming deals",
+    "source": "The Verge",
+    "published_at": "2023-10-10T12:30:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-d2e22d44f4c97aca66fd8436af240369"
+  },
+  {
+    "corpus_index": 236,
+    "title": "The best controllers for PC gaming",
+    "source": "Polygon",
+    "published_at": "2023-11-17T13:15:48+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-50a1e7a3f5b0d66e0b238fac01e39550"
+  },
+  {
+    "corpus_index": 237,
+    "title": "5 things we learned so far about the Google antitrust case",
+    "source": "TechCrunch",
+    "published_at": "2023-10-31T02:30:32+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-788c46d6a896b7f5497eed28e30a2467"
+  },
+  {
+    "corpus_index": 238,
+    "title": "We could end the AIDS epidemic in less than a decade. Here's how.",
+    "source": "Live Science: The Most Interesting Articles",
+    "published_at": "2023-12-01T12:00:17+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-e4fec136e167eb392ca3d1d9dfca5394"
+  },
+  {
+    "corpus_index": 239,
+    "title": "Merck, Novo Nordisk, Gilead, Biogen and more: Here are the investment opportunities in global Big Pharma",
+    "source": "Business Line",
+    "published_at": "2023-11-18T14:00:36+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-b50ed5617d203a6414e5cbaa07c3beb6"
+  },
+  {
+    "corpus_index": 240,
+    "title": "NBL Round 5: Harvey hits Hail Mary for Hawks to topple Taipans at the buzzer, Cheatham injured as Sixers upset Breakers",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-10-26T21:11:37+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f4be54801c3e304653c3ad9e07f5289a"
+  },
+  {
+    "corpus_index": 241,
+    "title": "Why the Apple Watch is being banned — and how Apple can avoid it",
+    "source": "The Verge",
+    "published_at": "2023-12-19T18:16:57+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-97b517ce94cc6f3eb2496ca56e1d5cfc"
+  },
+  {
+    "corpus_index": 242,
+    "title": "Ten Hag’s gamble pays off against Chelsea as McTominay steals show | Jonathan Liew",
+    "source": "The Guardian",
+    "published_at": "2023-12-06T23:45:56+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-24f6366f8de821081ed2ed15288de0a9"
+  },
+  {
+    "corpus_index": 243,
+    "title": "8 authors and their 8 gift book picks for this holiday season",
+    "source": "TechCrunch",
+    "published_at": "2023-12-01T16:05:15+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-123560d49443052a44f57c1c1d1d2ea7"
+  },
+  {
+    "corpus_index": 244,
+    "title": "Who’s the next Gawn, Grundy or Dusty? AFL’s talent guru names top 40 draft prospects and compares them to current stars",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-11-15T23:48:27+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-21a237e0c27a8752504a61cc6182b6d8"
+  },
+  {
+    "corpus_index": 245,
+    "title": "Canelo Alvarez vs Jermell Charlo live fight updates, results, highlights from 2023 boxing fight",
+    "source": "Sporting News",
+    "published_at": "2023-09-30T23:44:09+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-e76f0c0ee094a57b341bebf2e07cc256"
+  },
+  {
+    "corpus_index": 246,
+    "title": "IND vs AUS Head-to-Head Record in ODI World Cup: Check India vs Australia match stats in World Cup Finals and ODI series",
+    "source": "Zee Business",
+    "published_at": "2023-11-18T13:02:06+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-0e87050b7b1b197ac08fef5ea50c0d51"
+  },
+  {
+    "corpus_index": 247,
+    "title": "New ultrathin materials can pull climate-warming CO2 from the air",
+    "source": "Science News For Students",
+    "published_at": "2023-12-15T11:30:00+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-300a1d7837ca0e141cecd65e17f1c4c9"
+  },
+  {
+    "corpus_index": 248,
+    "title": "Deepfake election risks trigger EU call for more generative AI safeguards",
+    "source": "TechCrunch",
+    "published_at": "2023-09-26T17:26:57+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-8d3e21d57b524f41a8d04ef60e396b5e"
+  },
+  {
+    "corpus_index": 249,
+    "title": "Gio Reyna looks good in start for USMNT vs. Germany, but those involved in the finish are punished in 3-1 defeat",
+    "source": "Sporting News",
+    "published_at": "2023-10-14T23:41:07+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f4a0fe22d57ebe4a76d7edf7fd2f48ea"
+  },
+  {
+    "corpus_index": 250,
+    "title": "The 30 best Amazon Prime Day deals for October 2023",
+    "source": "Engadget",
+    "published_at": "2023-10-10T17:41:37+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-8c6b15e5ae83ed09b9853316bcdc92c9"
+  },
+  {
+    "corpus_index": 251,
+    "title": "26-year-old with $145,000 in student debt can't afford Christmas. She's giving 'affordable gifts or combining gifts with my older sister'",
+    "source": "Fortune",
+    "published_at": "2023-12-23T15:13:12+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-b92eacb0fcae235afcad264aad767475"
+  },
+  {
+    "corpus_index": 252,
+    "title": "Investment options for high networth investors",
+    "source": "Business Line",
+    "published_at": "2023-10-28T14:42:28+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-c396970daaa2cb626a2b25bb56f2349c"
+  },
+  {
+    "corpus_index": 253,
+    "title": "Reliance Industries: With the stock having underperformed Nifty 50 in last three years, is it time to buy?",
+    "source": "Business Line",
+    "published_at": "2023-12-09T13:15:42+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-c6ed328f7ced53c0394f1be26c927a51"
+  },
+  {
+    "corpus_index": 254,
+    "title": "Bride defended after asking mother to walk her down the aisle instead of stepfather",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-11-27T18:21:04+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-0a982ef78fcfb9931bb1758f41058ff7"
+  },
+  {
+    "corpus_index": 255,
+    "title": "Charlie Sheen is 'single dad' to twins, follows John Travolta, Liam Neeson raising kids solo",
+    "source": "FOX News - Entertainment",
+    "published_at": "2023-12-17T10:00:59+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-86cceae8fe9b68a03ad70d968635b598"
+  },
+  {
+    "corpus_index": 256,
+    "title": "What’s at stake in the Supreme Court’s landmark social media case",
+    "source": "TechCrunch",
+    "published_at": "2023-10-04T20:07:42+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-15597e878a536961ce643b8242f64446"
+  },
+  {
+    "corpus_index": 257,
+    "title": "Taylor Swift's 1989: The stories behind her biggest album",
+    "source": "BBC News - Entertainment & Arts",
+    "published_at": "2023-10-13T23:00:08+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-ee7ca91aa82f489d6d31bdcf9acdf3c4"
+  },
+  {
+    "corpus_index": 258,
+    "title": "Can Alabama make College Football Playoff? How Texas, Oregon losses could impact Tide's 2023 chances",
+    "source": "Sporting News",
+    "published_at": "2023-12-01T22:23:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-7b6c263c0a495737f36c3258d506f6e7"
+  },
+  {
+    "corpus_index": 259,
+    "title": "College football odds, lines, schedule for Week 6: Texas, Alabama, Notre Dame among favorites in ranked games",
+    "source": "CBSSports.com",
+    "published_at": "2023-10-01T22:41:50+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-e20c47b64b258fe446856543315e0bcd"
+  },
+  {
+    "corpus_index": 260,
+    "title": "Man United vs Fulham: Red Devils determined to get back to winning ways in PL",
+    "source": "Insidesport",
+    "published_at": "2023-11-03T21:58:48+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-1a74adefe2cf837c6c6450f1bd53bd39"
+  },
+  {
+    "corpus_index": 261,
+    "title": "These jellyfish can learn without brains",
+    "source": "Science News For Students",
+    "published_at": "2023-12-01T11:30:00+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-8b0b9bdbb9760e710b6f0465210a510f"
+  },
+  {
+    "corpus_index": 262,
+    "title": "Nobel Prize winner shocked by early morning phone call from Sweden: 'It was ringing during the night, but I didn’t answer it because I’m trying to get some sleep, basically'",
+    "source": "Fortune",
+    "published_at": "2023-10-04T21:15:43+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-8531aece60440459e4b86fa10b24e778"
+  },
+  {
+    "corpus_index": 263,
+    "title": "Hipgnosis Songs Fund’s board is concerned over Citrin Cooperman’s latest valuation of the company. What’s it going to do about it?",
+    "source": "Music Business Worldwide",
+    "published_at": "2023-12-19T23:02:01+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-8a8e0cc992209cd1f5aae8a66777bc63"
+  },
+  {
+    "corpus_index": 264,
+    "title": "MLB Betting Sites & Apps - The Best Baseball Sportsbooks 2023",
+    "source": "Sporting News",
+    "published_at": "2023-10-24T22:32:27+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-9f656fe1f977156ca43509d97f003bce"
+  },
+  {
+    "corpus_index": 265,
+    "title": "The Crown: What is fact and what is fiction on season 6?",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-11-17T19:32:16+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-97d10b532cabb71c30e81e04d78f31d5"
+  },
+  {
+    "corpus_index": 266,
+    "title": "Fans react to most ‘heartbreaking’ scene in The Crown",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-11-17T09:35:32+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-96b0c0b3745b87160d14ce26be1c9cc6"
+  },
+  {
+    "corpus_index": 267,
+    "title": "WebSummit derailed by founder’s public fight with those supporting Israel in Hamas conflict",
+    "source": "TechCrunch",
+    "published_at": "2023-10-16T21:14:56+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-870a002e2cf171040f05294fd129efc7"
+  },
+  {
+    "corpus_index": 268,
+    "title": "Meta and IBM form an AI Alliance, but to what end?",
+    "source": "TechCrunch",
+    "published_at": "2023-12-05T13:58:12+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-aa5d12d962cf8512ab3aedc2b4039205"
+  },
+  {
+    "corpus_index": 269,
+    "title": "YouTube influencer who gave parenting advice pleads guilty to horrific child abuse",
+    "source": "Fortune",
+    "published_at": "2023-12-18T22:35:52+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-8c89eebce734e9b2b958be9264fa882d"
+  },
+  {
+    "corpus_index": 270,
+    "title": "Christmas proves that love triumphs over hate — even amid war, suffering, tragedy and turmoil",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-12-23T14:20:43+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-df359f994492954d7af76e7352a215b6"
+  },
+  {
+    "corpus_index": 271,
+    "title": "NMPA: Generative AI is ‘the greatest risk to the human creative class that has ever existed’",
+    "source": "Music Business Worldwide",
+    "published_at": "2023-11-30T21:28:50+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-1391a23cee7d992ae9fe72dbcfc45b7e"
+  },
+  {
+    "corpus_index": 272,
+    "title": "Creatives across industries are strategizing together around AI concerns",
+    "source": "TechCrunch",
+    "published_at": "2023-10-06T23:04:57+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-2d25ba6c5c5d34a39f73f59fb54877c8"
+  },
+  {
+    "corpus_index": 273,
+    "title": "Showtime Boxing to take final 10-count: Top 5 greatest fights revisited",
+    "source": "Sporting News",
+    "published_at": "2023-10-18T21:30:31+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-7060e2922483117fa8a3c62ec17c0c82"
+  },
+  {
+    "corpus_index": 274,
+    "title": "Truth Behind Jake Paul Dating Dillon Danis’ Ex-girlfriend: Did MMA Star Break Up With Savannah Montano?",
+    "source": "Essentially Sports",
+    "published_at": "2023-10-07T21:14:09+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-9736a3f3c76f70aee12166c2f14f4eba"
+  },
+  {
+    "corpus_index": 275,
+    "title": "Cowboys vs. 49ers live score, updates, highlights from NFL 'Sunday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-10-08T22:47:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-b963cc97db219d7973b899d304df13c1"
+  },
+  {
+    "corpus_index": 276,
+    "title": "FanDuel Picks Week 14: Best NFL DFS lineup advice for daily fantasy football tournaments",
+    "source": "Sporting News",
+    "published_at": "2023-12-07T22:17:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f3fc9526b1e92924de2979bb89bd85cd"
+  },
+  {
+    "corpus_index": 277,
+    "title": "Top goalscorers of 2023: Cristiano Ronaldo brings up 50 goals with Erling Haaland and Harry Kane also high on list",
+    "source": "TalkSport",
+    "published_at": "2023-12-12T22:36:24+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-180e050029123ad608a994b709c5c0c1"
+  },
+  {
+    "corpus_index": 278,
+    "title": "Alexis Ohanian says he’s a ‘techno optimist,’ despite social media’s impact on society",
+    "source": "TechCrunch",
+    "published_at": "2023-10-31T17:21:47+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-33aa62d5923adb6d9ab22cb1b6a9f0e3"
+  },
+  {
+    "corpus_index": 279,
+    "title": "Thanksgiving is Spider-Man’s holiday",
+    "source": "Polygon",
+    "published_at": "2023-11-23T16:04:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-d304af906ff17d739d6f1188611ded64"
+  },
+  {
+    "corpus_index": 280,
+    "title": "Why do Americans celebrate Thanksgiving?",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-11-11T09:04:08+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-fa5b23d194c46ac5a13129fa4c37f7da"
+  },
+  {
+    "corpus_index": 281,
+    "title": "Are NBA Christmas Day Games a Better Tradition Than NFL Thanksgiving Day Games?",
+    "source": "Essentially Sports",
+    "published_at": "2023-12-25T21:27:33+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-98a01cdceb6274ab0f8d2c5027a23455"
+  },
+  {
+    "corpus_index": 282,
+    "title": "Lions vs. Packers live score, updates, highlights from NFL 'Thursday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-09-28T23:54:07+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-55e777047059a97c6829d14a44aac20d"
+  },
+  {
+    "corpus_index": 283,
+    "title": "Author Melissa Lucashenko on playing with black and white binaries",
+    "source": "The Age",
+    "published_at": "2023-10-06T04:50:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-182f1bbae35c7aac74a9d401f054bfc1"
+  },
+  {
+    "corpus_index": 284,
+    "title": "‘I see myself as a royal’: artist Vincent Namatjira on colonialism, satire and his great-grandfather’s legacy",
+    "source": "The Guardian",
+    "published_at": "2023-10-16T14:00:44+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-8970c6c718586cd4325bfb78a2849b08"
+  },
+  {
+    "corpus_index": 285,
+    "title": "A new hydrogel could help pull drinking water from the air",
+    "source": "Science News For Students",
+    "published_at": "2023-11-03T10:30:00+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-ed48649715234286a88372b3c207f81c"
+  },
+  {
+    "corpus_index": 286,
+    "title": "Bringing aqueous rechargeable zinc iodine batteries to the mainstream energy market",
+    "source": "Advanced Science News",
+    "published_at": "2023-09-26T11:50:40+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-39d9ac7ae66d0c3b47be36adf5f4f9e0"
+  },
+  {
+    "corpus_index": 287,
+    "title": "What we expect at Apple's Scary Fast event: M3-powered MacBook Pros and new iMacs",
+    "source": "Engadget",
+    "published_at": "2023-10-26T19:15:49+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-63e6e07f476c6cd266ab2fe7ccb30ded"
+  },
+  {
+    "corpus_index": 288,
+    "title": "Fantasy Injury Updates Week 10: News on Justin Jefferson, Ja'Marr Chase, T.J. Hockenson & Curtis Samuel",
+    "source": "Sporting News",
+    "published_at": "2023-11-11T21:17:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-b501b6e9ee2d3fb8ba9668fed12c29cb"
+  },
+  {
+    "corpus_index": 289,
+    "title": "NFL Week 13 injuries: Browns to start Joe Flacco with Dorian Thompson-Robinson out, Saints' Olave questionable",
+    "source": "CBSSports.com",
+    "published_at": "2023-12-01T22:52:36+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-2422fd1151b5f449588a87bcf3b6ce56"
+  },
+  {
+    "corpus_index": 290,
+    "title": "Seahawks vs. Giants live score, updates, highlights from NFL 'Monday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-10-02T22:00:04+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-78d55f15d0380841cf0ec243b6cac480"
+  },
+  {
+    "corpus_index": 291,
+    "title": "Here are over 40 last-minute gifts you can still nab before Christmas",
+    "source": "The Verge",
+    "published_at": "2023-12-24T19:15:58+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-44bd628977a8941b0fafc33a01508415"
+  },
+  {
+    "corpus_index": 292,
+    "title": "6 games to play first on your new Nintendo Switch",
+    "source": "Polygon",
+    "published_at": "2023-12-24T15:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-72f690cda1eebe99bb8d05a3bb7e2338"
+  },
+  {
+    "corpus_index": 293,
+    "title": "How is it still getting worse for Sam Bankman-Fried?",
+    "source": "The Verge",
+    "published_at": "2023-10-12T23:08:14+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-f19f0fb121c28d9f779f7011a5700786"
+  },
+  {
+    "corpus_index": 294,
+    "title": "Bills vs. Bengals live score, updates, highlights from NFL 'Sunday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-11-05T23:47:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-70d29e81ee093b41942cacac7601d674"
+  },
+  {
+    "corpus_index": 295,
+    "title": "Taylor Swift reveals secret start to her relationship with Travis Kelce",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-12-06T14:23:01+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-7cb30df0114b861ca10ac77c9f3931c5"
+  },
+  {
+    "corpus_index": 296,
+    "title": "Best NHL prop bets tonight: Artemi Panarin, Cale Makar highlight top parlay picks for Rangers-Red Wings, Devils-Avalanche",
+    "source": "Sporting News",
+    "published_at": "2023-11-07T22:09:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-79a2045819cd19e3c46bceace533bd32"
+  },
+  {
+    "corpus_index": 297,
+    "title": "Major NASCAR Snubs as Autosport Releases the Top 50 Motorsport Drivers in 2023",
+    "source": "Essentially Sports",
+    "published_at": "2023-12-21T23:41:30+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-70ed62787ec4982188b62df23ef44ac5"
+  },
+  {
+    "corpus_index": 298,
+    "title": "ASX rises after Wall Street gains on rate optimism; Oil drops",
+    "source": "The Sydney Morning Herald",
+    "published_at": "2023-10-10T23:50:33+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-fd23a364e84072889992e38c7a02c1bd"
+  },
+  {
+    "corpus_index": 299,
+    "title": "The Epic v. Google trial may come down to simple v. complicated",
+    "source": "The Verge",
+    "published_at": "2023-11-07T15:00:40+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-ced1b4fad7318568a68162132adfc09f"
+  },
+  {
+    "corpus_index": 300,
+    "title": "Liverpool vs Everton begins epic Saturday with World Cup semi-final as well as Chelsea vs Arsenal – and it could end with a bang",
+    "source": "TalkSport",
+    "published_at": "2023-10-20T21:34:28+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-e98d614e214b0e21e6de7d1452f453ec"
+  },
+  {
+    "corpus_index": 301,
+    "title": "Deft is building e-commerce search to help you find the right product quickly",
+    "source": "TechCrunch",
+    "published_at": "2023-11-03T13:00:14+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-6665a56421434d297dde03c23fc14067"
+  },
+  {
+    "corpus_index": 302,
+    "title": "The Blueprint of Regeneration: Scientists Discover How to Turn Stem Cells’ Fate",
+    "source": "Revyuh Media",
+    "published_at": "2023-11-24T19:00:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-f553eb07603310e48f902baf003e1065"
+  },
+  {
+    "corpus_index": 303,
+    "title": "Connecticut moms prowl neighborhood as zombies to raise money for breast cancer research",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-10-28T11:00:24+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-3d33182b1d63b01a7dda56a8fa86f350"
+  },
+  {
+    "corpus_index": 304,
+    "title": "Meta turned a blind eye to kids on its platforms for years, unredacted lawsuit alleges",
+    "source": "TechCrunch",
+    "published_at": "2023-11-27T21:20:32+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-c0e71f39c1db2936127d3a82a38596f8"
+  },
+  {
+    "corpus_index": 305,
+    "title": "Today the FTX jury suffered through a code review",
+    "source": "The Verge",
+    "published_at": "2023-10-06T22:21:46+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-d9b088f4a1194dd30f4d18803dc6cc1c"
+  },
+  {
+    "corpus_index": 306,
+    "title": "A deficit budget for 2024",
+    "source": "Business World",
+    "published_at": "2023-10-08T16:02:10+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-42b319af065ff9f343dbe1646df5e3a4"
+  },
+  {
+    "corpus_index": 307,
+    "title": "IPL 2024 Auction Live: Starc, Cummins in spotlight as Dubai set for ‘richie-rich’ carnival",
+    "source": "Insidesport",
+    "published_at": "2023-12-18T23:30:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-25b52b76467431f198e06605548570bd"
+  },
+  {
+    "corpus_index": 308,
+    "title": "Save on the winners from the 2023 Game Awards this weekend",
+    "source": "Polygon",
+    "published_at": "2023-12-09T15:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-2a61a23bbed896d63a07dae1dfa136ce"
+  },
+  {
+    "corpus_index": 309,
+    "title": "Fasting could reduce signs of Alzheimer’s disease, studies suggest: ‘Profound effects’",
+    "source": "FOX News - Health",
+    "published_at": "2023-12-06T11:25:40+00:00",
+    "category": "health",
+    "minirag_doc_id": "doc-7b8d244a63406368813bdb356661c894"
+  },
+  {
+    "corpus_index": 310,
+    "title": "Sleepy tea, counting backwards and dense earplugs: Inside the lives of insomniacs",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-10-01T08:55:56+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-4ffaba73fe6ff04e86d416198a2478dd"
+  },
+  {
+    "corpus_index": 311,
+    "title": "FanDuel 'Prop Stars' Picks: Best bets for Travis Kelce & Taylor Swift-inspired props for Chiefs-Jets Week 4",
+    "source": "Sporting News",
+    "published_at": "2023-09-28T21:41:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-a0d89a99cd9ecfd52e759b2eb469b8e9"
+  },
+  {
+    "corpus_index": 312,
+    "title": "The US Senate and Silicon Valley reconvene for a second AI Insight Forum",
+    "source": "Engadget",
+    "published_at": "2023-10-25T14:31:28+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-2cdbc41c7ca88f2b2c6167ad4a0d39df"
+  },
+  {
+    "corpus_index": 313,
+    "title": "Sweeping White House AI executive order takes aim at the technology's toughest challenges",
+    "source": "Engadget",
+    "published_at": "2023-10-30T09:00:08+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-71200ffe9e035796f11b100e44d0087f"
+  },
+  {
+    "corpus_index": 314,
+    "title": "NFL Best Bets Week 9: Colts clobber Panthers, Dolphins drop Chiefs in Germany",
+    "source": "Sporting News",
+    "published_at": "2023-11-03T20:56:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f4f333b111ad6a2846a572dce6ab8a56"
+  },
+  {
+    "corpus_index": 315,
+    "title": "Man United next manager: Assessing candidates to replace Erik ten Hag if Red Devils sack Dutch boss",
+    "source": "Sporting News",
+    "published_at": "2023-12-13T20:52:15+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-06921464291cdff57407198761faacd7"
+  },
+  {
+    "corpus_index": 316,
+    "title": "N.F.L. Executives on the Biggest Questions Facing Super Bowl Contenders",
+    "source": "The New York Times",
+    "published_at": "2023-10-16T23:58:53+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-553f9b7726a7d0d6505074c6c159750a"
+  },
+  {
+    "corpus_index": 317,
+    "title": "Fantasy Football RB PPR Rankings Week 14: Who to start, best sleepers at running back",
+    "source": "Sporting News",
+    "published_at": "2023-12-07T22:09:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f3d79e89f39669899dad26e5456bc8cf"
+  },
+  {
+    "corpus_index": 318,
+    "title": "The small and affordable EVs we lost in 2023",
+    "source": "TechCrunch",
+    "published_at": "2023-12-19T15:08:55+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-f4fc99d1d441390ebb4ff5df00ece8d9"
+  },
+  {
+    "corpus_index": 319,
+    "title": "Trump and the GOP are trying to drive a wedge between autoworkers and EVs",
+    "source": "The Verge",
+    "published_at": "2023-09-28T16:37:13+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-f33bc46cf39d6b90c73f2282d96c03cc"
+  },
+  {
+    "corpus_index": 320,
+    "title": "These Are Our Favorite Walmart Cyber Monday Deals",
+    "source": "Wired",
+    "published_at": "2023-11-27T14:22:26+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-b17d01389f34e78e20078a4c620d8c07"
+  },
+  {
+    "corpus_index": 321,
+    "title": "The shipping industry’s boom-and-bust cycle is so severe carriers face going from bumper profits to losing money in the space of a few years: 'I'm certainly concerned'",
+    "source": "Fortune",
+    "published_at": "2023-11-12T17:51:37+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-715cae48468b4b1bd09e10ed5b0865b7"
+  },
+  {
+    "corpus_index": 322,
+    "title": "Alcoholism, Ayahuasca and the Enlightenment of an N.F.L. Player",
+    "source": "The New York Times",
+    "published_at": "2023-12-15T21:32:52+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-03bdf9eaabf921ae4d6099e99398faa5"
+  },
+  {
+    "corpus_index": 323,
+    "title": "Thanksgiving 2023: What stores will be open on the holiday?",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-11-06T10:40:17+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-8cda3ae2304e7bea63dd74d55bdfb1af"
+  },
+  {
+    "corpus_index": 324,
+    "title": "From a Turkey trot to a movie marathon, Friendsgiving celebrations that aren’t a sit-down dinner",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-11-17T16:20:48+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-b36cd0c59e2de515a93e4219662e9bb3"
+  },
+  {
+    "corpus_index": 325,
+    "title": "10 scorching-hot discoveries made about the sun in 2023",
+    "source": "Live Science: The Most Interesting Articles",
+    "published_at": "2023-12-24T14:00:00+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-7baa9a4ee39d64487b79bdcd7754f987"
+  },
+  {
+    "corpus_index": 326,
+    "title": "Northern Lights: Here are the best tips to help you spot the stunning display in the US and abroad",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-10-08T08:30:36+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-c0ba28a8f6257e32439ad4ac16e71971"
+  },
+  {
+    "corpus_index": 327,
+    "title": "Watch great noir this Noirvember",
+    "source": "Polygon",
+    "published_at": "2023-11-15T16:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-be0fb5f418962818630f244f829058ff"
+  },
+  {
+    "corpus_index": 328,
+    "title": "Bryce Harper 'Atta Boy' controversy, explained: Why Orlando Arcia's comments led to backlash, Alanna Rizzo rant",
+    "source": "Sporting News",
+    "published_at": "2023-10-13T21:58:11+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-17c6956fb105a0c67cb480927cb8f144"
+  },
+  {
+    "corpus_index": 329,
+    "title": "Castlevania: Nocturne is a revolutionary epic that does the franchise’s best games justice",
+    "source": "The Verge",
+    "published_at": "2023-09-28T20:06:12+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-8a51e4636441493cbe916f42237f01a4"
+  },
+  {
+    "corpus_index": 330,
+    "title": "Ten Hag demands both positivity and pragmatism from erratic Onana",
+    "source": "The Guardian",
+    "published_at": "2023-10-28T21:30:25+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-92ff5cdd913aab5338e6c12f54c614f1"
+  },
+  {
+    "corpus_index": 331,
+    "title": "DraftKings Picks Week 14: Best NFL DFS lineup advice for daily fantasy football tournaments",
+    "source": "Sporting News",
+    "published_at": "2023-12-07T22:18:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-e2b23c59ed7779fa5ca5e6a22e841b56"
+  },
+  {
+    "corpus_index": 332,
+    "title": "OpenAI's ex-chairman accuses board of going rogue in firing Altman: 'Sam and I are shocked and saddened by what the board did'",
+    "source": "Fortune",
+    "published_at": "2023-11-18T15:33:09+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-c357608d30b145f9dbe29b0abf5d2d61"
+  },
+  {
+    "corpus_index": 333,
+    "title": "WTF is going on at OpenAI? We have theories",
+    "source": "TechCrunch",
+    "published_at": "2023-11-18T00:09:53+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-dd15def0f9f91d1b7801f113b2e9ba68"
+  },
+  {
+    "corpus_index": 334,
+    "title": "Google fakes an AI demo, Grand Theft Auto VI goes viral and Spotify cuts jobs",
+    "source": "TechCrunch",
+    "published_at": "2023-12-09T21:16:17+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-f3a736b97867d89504a4d71951b15a4d"
+  },
+  {
+    "corpus_index": 335,
+    "title": "Meta says it’s prioritizing livestreaming checks during Israel-Hamas war",
+    "source": "TechCrunch",
+    "published_at": "2023-10-13T12:43:45+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-09f1b8eeb762d67db57fc534ffe7be02"
+  },
+  {
+    "corpus_index": 336,
+    "title": "How Chinese firm linked to repression of Uyghurs aids Israeli surveillance in West Bank",
+    "source": "The Guardian",
+    "published_at": "2023-11-11T16:00:39+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-b821170d8c8e7f6538234c04e81cc6d7"
+  },
+  {
+    "corpus_index": 337,
+    "title": "Uber’s Q3 numbers include impressive profitability gains, slower-than-expected growth",
+    "source": "TechCrunch",
+    "published_at": "2023-11-07T17:03:41+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-8b68bcadb97806962bdbfe1a59765c4e"
+  },
+  {
+    "corpus_index": 338,
+    "title": "Earnings week ahead: Amazon, Microsoft, Alphabet, Meta, Ford, GM and more",
+    "source": "Seeking Alpha",
+    "published_at": "2023-10-22T12:13:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-808a82777c8e0547ac89b8ac160b2518"
+  },
+  {
+    "corpus_index": 339,
+    "title": "When do the clocks change in 2023?",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-10-24T05:50:17+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-bc0bea1fc3e9cf5394652d4b7435167c"
+  },
+  {
+    "corpus_index": 340,
+    "title": "Wild fire HC Dean Evason, hire John Hynes as replacement",
+    "source": "Yardbarker",
+    "published_at": "2023-11-27T23:45:08+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-d3bd1e65a55fb790507f0bd79cf2b13e"
+  },
+  {
+    "corpus_index": 341,
+    "title": "Liam Paro responds to Shakur Stevenson sparring clip ahead of return vs. Montana Love",
+    "source": "Sporting News",
+    "published_at": "2023-11-30T23:19:12+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-147b8effa8cdd4471f4a96d48f345266"
+  },
+  {
+    "corpus_index": 342,
+    "title": "Tennis News: Kyrgios escalates beef with Becker, change ‘warrior’ Novak had to make, WTA criticised for charisma fail",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-12-19T23:54:26+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-dbb66e5eaefb533e8cce6fb98f0003a1"
+  },
+  {
+    "corpus_index": 343,
+    "title": "Prisco's Week 12 NFL picks: Jaguars beat Texans in AFC South battle, Saints get key divisional win vs. Falcons",
+    "source": "CBSSports.com",
+    "published_at": "2023-11-23T21:30:38+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-a634e7b587a140eb5d259028166c50f0"
+  },
+  {
+    "corpus_index": 344,
+    "title": "Is the Coverage on Taylor Swift and Travis Kelce’s Romance Nothing but Hype or a Pivotal Shift in NFL’s Century-Old Game Plan Towards Global Recognition?",
+    "source": "Essentially Sports",
+    "published_at": "2023-10-25T21:30:41+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-5271e221eddd71738ba828c94ad78a4b"
+  },
+  {
+    "corpus_index": 345,
+    "title": "Their kids died after buying drugs on Snapchat. Now the parents are suing",
+    "source": "The Guardian",
+    "published_at": "2023-10-18T10:00:21+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-5384438e99cc0b1aa9cab6fdfac0526b"
+  },
+  {
+    "corpus_index": 346,
+    "title": "Pokémon is no longer just a game — it’s a lifestyle",
+    "source": "The Verge",
+    "published_at": "2023-11-23T18:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-03a2cd8d2ad0e10ae451dcea8a65c809"
+  },
+  {
+    "corpus_index": 347,
+    "title": "Shayda director Noora Niasari on family violence, Iranian liberation and taking her first film to the Oscars",
+    "source": "The Guardian",
+    "published_at": "2023-10-01T14:00:47+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-d37dabb77bfe2862ee59d7aa5edd41fc"
+  },
+  {
+    "corpus_index": 348,
+    "title": "Craig Morgan shares how he balances music career and serving his country: 'I have never quit being a soldier'",
+    "source": "FOX News - Entertainment",
+    "published_at": "2023-10-16T09:00:59+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-6f80dc5df2bd8bbdad5c677cbc335fab"
+  },
+  {
+    "corpus_index": 349,
+    "title": "3 Possible Opponents for CM Punk if He Returns to WWE at Survivor Series",
+    "source": "Essentially Sports",
+    "published_at": "2023-11-21T21:21:15+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-0251623e264b97e141741ca0afd92c19"
+  },
+  {
+    "corpus_index": 350,
+    "title": "The best Xbox controller to buy right now",
+    "source": "The Verge",
+    "published_at": "2023-11-21T20:04:33+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-f8eba028c7485aeff13cd2d9ac551cba"
+  },
+  {
+    "corpus_index": 351,
+    "title": "The best deals on MacBooks right now",
+    "source": "The Verge",
+    "published_at": "2023-10-26T18:17:19+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-3b58395b6395918a5964e6e1cc373423"
+  },
+  {
+    "corpus_index": 352,
+    "title": "European roundup: Bellingham helps Real Madrid go top while Bayern draw",
+    "source": "The Guardian",
+    "published_at": "2023-09-30T21:17:47+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-cfcaacda0f2d16886fe5c3a8c77d864a"
+  },
+  {
+    "corpus_index": 353,
+    "title": "Michigan didn't need Jim Harbaugh against Penn State, but Ohio State is a different game",
+    "source": "Sporting News",
+    "published_at": "2023-11-11T21:32:44+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-1281e0856e794a25bf24f92dce4f7db7"
+  },
+  {
+    "corpus_index": 354,
+    "title": "The Steam Deck OLED improves much more than its screen",
+    "source": "Polygon",
+    "published_at": "2023-11-09T18:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-247c45caa705e18c419da4cfffbd61fb"
+  },
+  {
+    "corpus_index": 355,
+    "title": "Epic v. Google, explained",
+    "source": "The Verge",
+    "published_at": "2023-11-05T11:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-833127c770c6b6ac802c411a9dc9e258"
+  },
+  {
+    "corpus_index": 356,
+    "title": "Patrick Kane destinations: Sabres, Red Wings among potential landing spots for free agent winger",
+    "source": "Sporting News",
+    "published_at": "2023-11-27T22:09:43+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-1480d54257e8e3652d30ed146e7f014d"
+  },
+  {
+    "corpus_index": 357,
+    "title": "ASX to rise after interest rate hopes boost US shares",
+    "source": "The Sydney Morning Herald",
+    "published_at": "2023-11-05T20:56:22+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-38f59e70bbd3280928eb7a2767073ff0"
+  },
+  {
+    "corpus_index": 358,
+    "title": "Britney Spears and Kevin Federline: A complete timeline of their relationship",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-10-20T15:02:26+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-54b3d67f590437ff87d52c7d7c72bd92"
+  },
+  {
+    "corpus_index": 359,
+    "title": "Point Spread Betting - What is a Point Spread Bet?",
+    "source": "Sporting News",
+    "published_at": "2023-11-01T22:50:52+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-20becf4cac99d24c36b969f87dd03252"
+  },
+  {
+    "corpus_index": 360,
+    "title": "Jada Pinkett Smith reveals why she and Will Smith never signed a prenup",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-10-16T15:48:10+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-a6d8beecf38c09fa494ac1b09fda7064"
+  },
+  {
+    "corpus_index": 361,
+    "title": "Europe’s artists and labels could lose $137m annually to US recorded music rightsholders if EU law isn’t changed, trade groups warn",
+    "source": "Music Business Worldwide",
+    "published_at": "2023-11-29T20:55:14+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-70a05ad9d8c1d524020ba7efc569f37f"
+  },
+  {
+    "corpus_index": 362,
+    "title": "Why is Brock Purdy called Mr. Irrelevant? Story behind 49ers QB's nickname explained",
+    "source": "Sportskeeda",
+    "published_at": "2023-10-10T22:30:20+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-25b272609cd3558d889d19b74c92a9ab"
+  },
+  {
+    "corpus_index": 363,
+    "title": "62% of TikTok users in the United States pay for a music streaming service (report)",
+    "source": "Music Business Worldwide",
+    "published_at": "2023-11-21T22:03:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-1e0085562e7689bd4ce26636a584050e"
+  },
+  {
+    "corpus_index": 364,
+    "title": "The Ray-Ban Meta smart glasses actually make the future look cool",
+    "source": "The Verge",
+    "published_at": "2023-10-20T14:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-84cb350d960aa6db55a944c7692ff5fb"
+  },
+  {
+    "corpus_index": 365,
+    "title": "8 predictions for AI in 2024",
+    "source": "TechCrunch",
+    "published_at": "2023-12-19T16:19:34+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-9e38f6919707e72b6dc06784f9459d70"
+  },
+  {
+    "corpus_index": 366,
+    "title": "Inside the Man United takeover and it’s anything but smooth sailing for Sir Jim Ratcliffe as he seeks board vote",
+    "source": "TalkSport",
+    "published_at": "2023-10-18T21:30:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-5a6d8027bc96f66fc687de68c889c29e"
+  },
+  {
+    "corpus_index": 367,
+    "title": "Uber sexual assault survivors call for in-car cameras, tech upgrades",
+    "source": "TechCrunch",
+    "published_at": "2023-10-13T19:26:48+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-4bc1f00d91e680fbf7b4d47eb6c27148"
+  },
+  {
+    "corpus_index": 368,
+    "title": "The Best NBA Betting Sites and Apps for the 2023-24 Season",
+    "source": "Sporting News",
+    "published_at": "2023-10-02T21:58:37+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-259b6becf5615762ac6a68fec8bd0d43"
+  },
+  {
+    "corpus_index": 369,
+    "title": "Here are the best deals on headphones and wireless earbuds we could find",
+    "source": "The Verge",
+    "published_at": "2023-12-07T22:32:23+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-c2b78b1b07458fcee5a27ffd95c9d4c5"
+  },
+  {
+    "corpus_index": 370,
+    "title": "Ten Hag’s Manchester United stand up and die at club stuck in the past tense | Barney Ronay",
+    "source": "The Guardian",
+    "published_at": "2023-12-12T23:53:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-7c2a821fd49e5187fd882f7bc208b1fa"
+  },
+  {
+    "corpus_index": 371,
+    "title": "West Indies clinch T20 series after Shai Hope edges hosts past England total",
+    "source": "The Guardian",
+    "published_at": "2023-12-21T23:45:58+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-2b354973cd30abed2507e90638a1226f"
+  },
+  {
+    "corpus_index": 372,
+    "title": "Sources: Palo Alto in advanced talks to buy Talon and Dig in a $1B security sweep",
+    "source": "TechCrunch",
+    "published_at": "2023-09-26T22:43:47+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-9d4083bfc5e27af785ff26c7b205c6de"
+  },
+  {
+    "corpus_index": 373,
+    "title": "Check Point sees 'fantastic' year ahead even as rival report disappointing billings",
+    "source": "Seeking Alpha",
+    "published_at": "2023-11-18T13:56:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-e7a99ce768c646d1ae9705452370c82e"
+  },
+  {
+    "corpus_index": 374,
+    "title": "Binance to pay $4.3B in fines and CEO ‘CZ’ to step down, plead guilty to anti-money laundering charges",
+    "source": "TechCrunch",
+    "published_at": "2023-11-21T17:34:32+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-7abf095573303164fe6638987d33d217"
+  },
+  {
+    "corpus_index": 375,
+    "title": "Coinbase rallies more than 60% in same month that FTX and Binance founders brace for prison",
+    "source": "Cnbc | World Business News Leader",
+    "published_at": "2023-11-30T21:08:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-d49e813bef4251c9d1da656c5362f881"
+  },
+  {
+    "corpus_index": 376,
+    "title": "Bills vs. Chargers odds, props, predictions: Buffalo faces struggling L.A. with eyes on AFC playoff picture",
+    "source": "Sporting News",
+    "published_at": "2023-12-21T19:35:54+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f916d2d43bc78fbb2c119355938d6ab3"
+  },
+  {
+    "corpus_index": 377,
+    "title": "Republicans just dumped Jim Jordan again. They're looking for another speaker candidate",
+    "source": "Fortune",
+    "published_at": "2023-10-18T20:36:54+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-5776aeb1c499ffee3b9fd0f3057bb12a"
+  },
+  {
+    "corpus_index": 378,
+    "title": "USC vs. Notre Dame live score, updates, highlights from Week 7 college football game",
+    "source": "Sporting News",
+    "published_at": "2023-10-14T22:00:05+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-acd65c7acd86ffde22cca0deff51cb71"
+  },
+  {
+    "corpus_index": 379,
+    "title": "Breaking down each VAR intervention from wild first half of Tottenham vs Chelsea officiated by Michael Oliver",
+    "source": "Sporting News",
+    "published_at": "2023-11-06T22:06:19+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f1041e614580c4e6630f00aca7359067"
+  },
+  {
+    "corpus_index": 380,
+    "title": "Sony Music has issued nearly 10,000 deepfake takedowns… and other things we learned from Dennis Kooker’s speech about AI",
+    "source": "Music Business Worldwide",
+    "published_at": "2023-11-30T21:28:03+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-7f9f3f9e60d82c14e64984189c5467a8"
+  },
+  {
+    "corpus_index": 381,
+    "title": "Sony Music’s artists aren’t involved in YouTube’s new voice-cloning AI experiment. Not unrelated: Google’s recent filing with the US Copyright Office.",
+    "source": "Music Business Worldwide",
+    "published_at": "2023-11-23T18:48:48+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-6e43c71b49687f46497f52ba558532a6"
+  },
+  {
+    "corpus_index": 382,
+    "title": "Spider-Man: Across the Spider-Verse on Netflix, A Haunting in Venice, and every new movie to watch this weekend",
+    "source": "Polygon",
+    "published_at": "2023-11-03T22:15:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-11343d18fa87ffccbf448d3ace02032c"
+  },
+  {
+    "corpus_index": 383,
+    "title": "Spider-Man 2 toys with Marvel history to be as much fun as possible",
+    "source": "Polygon",
+    "published_at": "2023-10-16T14:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-cc9ac1a801866533e8561d4280129f08"
+  },
+  {
+    "corpus_index": 384,
+    "title": "Temu was the most-downloaded iPhone app in the U.S. in 2023",
+    "source": "TechCrunch",
+    "published_at": "2023-12-12T16:47:19+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-505374e055b2ab7021b68b35c152b5fe"
+  },
+  {
+    "corpus_index": 385,
+    "title": "U.S.-China relations are now more about crisis prevention",
+    "source": "Cnbc | World Business News Leader",
+    "published_at": "2023-11-13T23:46:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-39590f95b97f5aadb2f9218646e28e7c"
+  },
+  {
+    "corpus_index": 386,
+    "title": "Monday Night Football DraftKings Picks: NFL DFS lineup advice for Week 15 Eagles-Seahawks Showdown tournaments",
+    "source": "Sporting News",
+    "published_at": "2023-12-18T22:47:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-146af3b4d887c8d4af0859f33534a8ed"
+  },
+  {
+    "corpus_index": 387,
+    "title": "5 things to know before watching the Five Nights at Freddy’s movie",
+    "source": "Polygon",
+    "published_at": "2023-10-26T21:11:01+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-e418bff997fb6c512ed7eb3aa63814c0"
+  },
+  {
+    "corpus_index": 388,
+    "title": "Blue Halloween buckets for autism: What they mean and why they're sparking controversy",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-10-31T20:13:41+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-797eb757531699a2b884be2f821d301e"
+  },
+  {
+    "corpus_index": 389,
+    "title": "How queerness became calamity in Tears of the Kingdom",
+    "source": "Polygon",
+    "published_at": "2023-10-19T19:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-e04391c8ecccb6e20c5c598c1fa54b21"
+  },
+  {
+    "corpus_index": 390,
+    "title": "5 myths about ketamine, the drug tied to Matthew Perry's death, according to doctors",
+    "source": "FOX News - Health",
+    "published_at": "2023-12-19T01:50:33+00:00",
+    "category": "health",
+    "minirag_doc_id": "doc-9ea5e8dcaecd428880052411db759304"
+  },
+  {
+    "corpus_index": 391,
+    "title": "Cavefish provide clues to the keto diet’s effect on autism-like behavior",
+    "source": "Advanced Science News",
+    "published_at": "2023-11-01T08:00:00+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-bd3bb2c7011261e7576c44b97beea936"
+  },
+  {
+    "corpus_index": 392,
+    "title": "Every movie and show coming to Netflix in November",
+    "source": "Polygon",
+    "published_at": "2023-11-01T12:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-26fe4d1292c028f189bb619050135b89"
+  },
+  {
+    "corpus_index": 393,
+    "title": "At Christmas, Don McLean sings the praises of 'Silent Night,' other holiday classics: 'My mother's favorite'",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-12-17T09:00:48+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-c1d52876c4538b6eaeaf89e6c7399163"
+  },
+  {
+    "corpus_index": 394,
+    "title": "Seahawks-Cowboys Fantasy Start 'Em Sit 'Em Week 13: Should you start Zach Charbonnet, Jake Ferguson on TNF?",
+    "source": "Sporting News",
+    "published_at": "2023-11-30T21:31:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-9d048cc70b5b6972a1d303fd147c242a"
+  },
+  {
+    "corpus_index": 395,
+    "title": "VAR apology list in Premier League: Updated list of PGMOL apologies for referee mistakes in English football",
+    "source": "Sporting News",
+    "published_at": "2023-09-30T21:27:02+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-4251670e27cc4e2e9af71e1fd2e52e57"
+  },
+  {
+    "corpus_index": 396,
+    "title": "X (formerly Twitter) is worst for disinformation, per EU analysis",
+    "source": "TechCrunch",
+    "published_at": "2023-09-26T13:02:43+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-a5e1d852fa77bf6fa67b8cbbe9ca62e3"
+  },
+  {
+    "corpus_index": 397,
+    "title": "Fast fashion retailer ASOS struggles to engage consumers as company losses balloon",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-11-01T15:36:20+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-8dc9ea4fe3cdacfd006699e20acc5764"
+  },
+  {
+    "corpus_index": 398,
+    "title": "European neobroker Scalable Capital raises $65M on a flat $1.4B valuation",
+    "source": "TechCrunch",
+    "published_at": "2023-12-07T07:29:44+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-ffc9ee86f9260a1df660f28f3fbd7ec0"
+  },
+  {
+    "corpus_index": 399,
+    "title": "How to wake Art Cullagh and lift the Shadow Curse in Baldur’s Gate 3",
+    "source": "Polygon",
+    "published_at": "2023-12-19T18:16:57+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-a5e165facb3c30c6fa4948b082a32725"
+  },
+  {
+    "corpus_index": 400,
+    "title": "The Soccer Star on the Verge of Breaking an 89-Year-Old Record",
+    "source": "The New York Times",
+    "published_at": "2023-11-17T21:47:19+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-b2edcde3da78893a3e50b169d74e8057"
+  },
+  {
+    "corpus_index": 401,
+    "title": "Twitch’s money guy talks about the revenue split controversy and its monetization long game",
+    "source": "TechCrunch",
+    "published_at": "2023-10-26T22:28:10+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-7d21b4d577691f676b7669c5fe78dbcc"
+  },
+  {
+    "corpus_index": 402,
+    "title": "Beeper Mini is back in operation after Apple’s attempt to shut it down",
+    "source": "TechCrunch",
+    "published_at": "2023-12-11T18:08:48+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-8c95df8fcfa4cbf3561ea2da5ac7944a"
+  },
+  {
+    "corpus_index": 403,
+    "title": "Know the price-matching policies for Best Buy, Target, Walmart, and others",
+    "source": "The Verge",
+    "published_at": "2023-10-25T22:03:19+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-c133e3587020b75e81a0c1dadab86993"
+  },
+  {
+    "corpus_index": 404,
+    "title": "The best Black Friday headphone deals from Sony, Apple, Bose, Beats and more",
+    "source": "Engadget",
+    "published_at": "2023-11-24T14:30:56+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-27d647e17ea5bbb4c1bf8b53e2ce7e10"
+  },
+  {
+    "corpus_index": 405,
+    "title": "Kick streamers consider leaving over CEO’s comments in a sex worker ‘prank’ stream",
+    "source": "TechCrunch",
+    "published_at": "2023-09-30T00:13:12+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-cc4bd5eb28250bf3d19f6c22ba54755c"
+  },
+  {
+    "corpus_index": 406,
+    "title": "NBL Round 4: Creek pours in points as Phoenix swamp Sixers, CJ claims Kings didn’t look after DJ",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-10-19T21:03:08+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-33ab3aa5e44088aaa225da553681f786"
+  },
+  {
+    "corpus_index": 407,
+    "title": "Eddie Jones says he needs to ‘give myself an uppercut’ but ‘100 percent’ committed to coaching Wallabies",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-10-16T22:37:26+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-b99fb6b5be3ed9851dec6c5a481c3492"
+  },
+  {
+    "corpus_index": 408,
+    "title": "World Series 2023 live score: Rangers vs. Diamondbacks updates, highlights, results from Game 4",
+    "source": "Sporting News",
+    "published_at": "2023-10-31T22:00:04+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-8247ad3791d601e73ca16ea67529c735"
+  },
+  {
+    "corpus_index": 409,
+    "title": "When was the first Cricket World Cup? History, winners' list and tournament details ahead of 2023 men's ODI showpiece",
+    "source": "Sporting News",
+    "published_at": "2023-10-01T23:10:05+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-1267f4c552cd7e88bcda47d814887a5b"
+  },
+  {
+    "corpus_index": 410,
+    "title": "Strategizing for sustainable development",
+    "source": "Business World",
+    "published_at": "2023-11-05T11:26:10+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-08423d536804fdfc1fad5d90c13f32f8"
+  },
+  {
+    "corpus_index": 411,
+    "title": "Michigan State hires Jonathan Smith: Oregon State coach leaves alma mater to take over Spartans job",
+    "source": "CBSSports.com",
+    "published_at": "2023-11-25T23:12:10+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-ada8e0ed296f7e4ba115d35c7fa40009"
+  },
+  {
+    "corpus_index": 412,
+    "title": "Billie Jean King sees progress in her crusade for more investment women’s sports: 'We’re kind of at a tipping point'",
+    "source": "Fortune",
+    "published_at": "2023-10-13T22:26:03+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-feeb04ae08392c8ef3b11c82b919600e"
+  },
+  {
+    "corpus_index": 413,
+    "title": "Israel's prince of public diplomacy",
+    "source": "Globes English | Israel Business Arena",
+    "published_at": "2023-12-03T12:50:26+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-5d30e672907c6bbda028687840126d38"
+  },
+  {
+    "corpus_index": 414,
+    "title": "Damien Penaud leads historic rout of Italy as France confirm progress in style",
+    "source": "The Guardian",
+    "published_at": "2023-10-06T21:06:37+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-a61dd0a95b09f458f4af667987c4e562"
+  },
+  {
+    "corpus_index": 415,
+    "title": "A timeline of Sam Altman’s firing from OpenAI — and the fallout",
+    "source": "TechCrunch",
+    "published_at": "2023-11-18T20:16:46+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-11b0c4a0827122df96bc3f1d35e7d5f5"
+  },
+  {
+    "corpus_index": 416,
+    "title": "Amidst Managerial Shake-Ups, These 5 MLB Teams Are Looking for a New Leader: Who Are the Top Candidates?",
+    "source": "Essentially Sports",
+    "published_at": "2023-10-30T22:30:39+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-9aa83b6da3665b0b7048dc39c8bcbaa4"
+  },
+  {
+    "corpus_index": 417,
+    "title": "Teenage Engineering's K.O. II sampler proves the company can do cost-friendly cool",
+    "source": "Engadget",
+    "published_at": "2023-12-19T15:00:38+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-bbe4bb3fc3e964a9a4575f133cbae432"
+  },
+  {
+    "corpus_index": 418,
+    "title": "Fundamental Investing: The Art of Relative Valuation",
+    "source": "Business Line",
+    "published_at": "2023-10-14T15:38:28+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-008ec0f40f4460e3f5e1b3c6b2129031"
+  },
+  {
+    "corpus_index": 419,
+    "title": "Taylor Swift has already sold over $100 million of tickets for her concert movie. Theaters nationwide brace for impact",
+    "source": "Fortune",
+    "published_at": "2023-10-10T20:11:16+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-5b4ebcfe29c89b844b87f8ed1c485b64"
+  },
+  {
+    "corpus_index": 420,
+    "title": "Robotics Q&A with Boston Dynamics’ Aaron Saunders",
+    "source": "TechCrunch",
+    "published_at": "2023-12-09T16:05:51+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-97943d2ce4c1c710925e0d56638e7c24"
+  },
+  {
+    "corpus_index": 421,
+    "title": "Robot startups see huge market in replacing human workers: 'We can sell millions of humanoids, billions maybe'",
+    "source": "Fortune",
+    "published_at": "2023-11-05T17:31:33+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-60eec4896106f6ad372bafeac9149de3"
+  },
+  {
+    "corpus_index": 422,
+    "title": "MLB free agency tracker: Live updates on news, rumors, signings and trades after 2023 Winter Meetings",
+    "source": "Sporting News",
+    "published_at": "2023-12-23T23:54:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-1e1445eff7f05b2e57177be31942f6d7"
+  },
+  {
+    "corpus_index": 423,
+    "title": "Unraveling Potential Reasons Why the Dodgers May Not Pursue Shohei Ohtani and Mike Trout in Free Agency Despite Their Availability",
+    "source": "Essentially Sports",
+    "published_at": "2023-11-18T21:21:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-43a94e751b710b3b60bf4834b44538a4"
+  },
+  {
+    "corpus_index": 424,
+    "title": "The Verge’s 2023 holiday gift guide for kids",
+    "source": "The Verge",
+    "published_at": "2023-12-18T23:14:07+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-db561893ce4c1784bd87101c3f33074d"
+  },
+  {
+    "corpus_index": 425,
+    "title": "Another cruel comeback sees Newcastle perish in group of death",
+    "source": "The Independent - Sports",
+    "published_at": "2023-12-13T22:16:07+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-dec1c37dfbae7270400cd39b57e43a35"
+  },
+  {
+    "corpus_index": 426,
+    "title": "Shohei Ohtani rumors tracker: Latest news, updates on Dodgers, Cubs & more as free agency short list emerges",
+    "source": "Sporting News",
+    "published_at": "2023-12-01T22:05:46+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-4678bae49f3fff834bc06722ee3cbd13"
+  },
+  {
+    "corpus_index": 427,
+    "title": "New Alzheimer’s drugs bring hope of slowing disease for UK patients",
+    "source": "The Guardian",
+    "published_at": "2023-12-17T10:00:23+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-4ce78d24365d63428a151058785e6925"
+  },
+  {
+    "corpus_index": 428,
+    "title": "The 35 best couch co-op games for Nintendo Switch",
+    "source": "Polygon",
+    "published_at": "2023-10-20T16:20:53+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-15361ff5894f24e52d84d91ee824d3c7"
+  },
+  {
+    "corpus_index": 429,
+    "title": "Yankees Gear Up for 2024 Season After Horrendous Year, But Could Letting This Star Go Spell Another Big Mistake?",
+    "source": "Essentially Sports",
+    "published_at": "2023-10-10T22:30:19+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-1556aa5905ac098a697a234170cde1cd"
+  },
+  {
+    "corpus_index": 430,
+    "title": "Simply Homes nabs $22M, leverages AI to tackle affordable housing crisis",
+    "source": "TechCrunch",
+    "published_at": "2023-12-07T15:03:16+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-8514a048f4edd1a0c0017bb920b4e873"
+  },
+  {
+    "corpus_index": 431,
+    "title": "Amazon’s latest Echo Frames are more style than substance",
+    "source": "The Verge",
+    "published_at": "2023-12-07T15:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-5f688138505e61591a5a9f1066561adc"
+  },
+  {
+    "corpus_index": 432,
+    "title": "Best sports betting promo codes for college basketball: Claim $5,000+ in bonuses from Caesars Sportsbook, BetMGM, Bet365, FanDuel, DraftKings, BetRivers",
+    "source": "Sporting News",
+    "published_at": "2023-11-29T21:00:04+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-be8594018d368b58885a08443fc6823e"
+  },
+  {
+    "corpus_index": 433,
+    "title": "College Bowl Odds, Spreads, Money Lines and Totals - NCAAF 2023 Bowl Season",
+    "source": "Sporting News",
+    "published_at": "2023-12-15T20:37:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-569dda7b4d6328c047f49ddebbdc2c1a"
+  },
+  {
+    "corpus_index": 434,
+    "title": "Dear Disney: If you want to last another century, lay off the legacy",
+    "source": "Polygon",
+    "published_at": "2023-12-12T16:01:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-ab5617bfa75a78a64da98d0b0e9b3fe2"
+  },
+  {
+    "corpus_index": 435,
+    "title": "Twitch is the best way to watch sports, when you can actually watch sports on Twitch",
+    "source": "Polygon",
+    "published_at": "2023-10-20T17:30:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-e5163c00e465490df808e411e9dbb08e"
+  },
+  {
+    "corpus_index": 436,
+    "title": "Creation of quantum dots wins 2023 chemistry Nobel",
+    "source": "Science News For Students",
+    "published_at": "2023-10-04T21:11:57+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-0c4129e7b86def6a3414a0b03a71a03d"
+  },
+  {
+    "corpus_index": 437,
+    "title": "Hottest seat on each NFC team: Buns burning for these four head coaches",
+    "source": "Yardbarker",
+    "published_at": "2023-11-30T22:29:33+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-13d0a6b261681620c12d446cf5592c68"
+  },
+  {
+    "corpus_index": 438,
+    "title": "Manchester divided as ten Hag pressure mounts after United Hammered, Ange-ball pays off again as Spurs sink Everton",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-12-23T21:19:19+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-ba5fc22438e52ebfc16f4ddd354bcfa7"
+  },
+  {
+    "corpus_index": 439,
+    "title": "Jets vs. Raiders live score, updates, highlights from NFL 'Sunday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-11-12T23:30:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-5bafd6ef9a341a7f02c19a0de41ad3f8"
+  },
+  {
+    "corpus_index": 440,
+    "title": "‘So used to seeing us winning’: Healy denies Aussie era ending after India loss, calls for more Tests",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-12-24T22:28:25+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-26869fda6dd015012d38fb6238a8744c"
+  },
+  {
+    "corpus_index": 441,
+    "title": "Is Kevin Durant the Most Disrespected Superstar in the History of NBA?",
+    "source": "Essentially Sports",
+    "published_at": "2023-12-01T20:46:09+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-928a93c127cdc31e1c971d1d8cb19c35"
+  },
+  {
+    "corpus_index": 442,
+    "title": "With hopes of victory fading, Ukraine's fight against Russia could get even harder in 2024",
+    "source": "Cnbc | World Business News Leader",
+    "published_at": "2023-12-25T23:36:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-355bbb886a3e0a945441882bf7b25589"
+  },
+  {
+    "corpus_index": 443,
+    "title": "Kyle Larson Breaks Down His Sprint Car Series Journey and How He Partnered Up With Dale Earnhardt Jr.’s Former Pupil",
+    "source": "Essentially Sports",
+    "published_at": "2023-09-28T21:31:48+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-4a014316a69159c02d724f3756f74c00"
+  },
+  {
+    "corpus_index": 444,
+    "title": "What USMNT can expect from Julian Nagelsmann, Germany in first match for new manager",
+    "source": "Sporting News",
+    "published_at": "2023-10-06T20:56:33+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-c669ca6d9f1a6bfbc465f402a184ef59"
+  },
+  {
+    "corpus_index": 445,
+    "title": "Chelsea and England star Cole Palmer: ‘The most annoying thing about moving down south? The traffic’",
+    "source": "The Independent - Sports",
+    "published_at": "2023-11-15T22:32:05+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-fafb9264557d4e51bd6f6e7c83f455d0"
+  },
+  {
+    "corpus_index": 446,
+    "title": "David Benavidez vs. Demetrius Andrade fight predictions, odds, undercard, expert picks, start time, preview",
+    "source": "CBSSports.com",
+    "published_at": "2023-11-25T21:30:43+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-4d21dd92747cdd5531090c16513e0573"
+  },
+  {
+    "corpus_index": 447,
+    "title": "Baker Mayfield stats today: Buccaneers QB keeps Tampa Bay atop NFC South with sparkling showing vs. Packers",
+    "source": "Sporting News",
+    "published_at": "2023-12-17T23:05:13+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-827011303ed9fe6f3fb3f285cff6b878"
+  },
+  {
+    "corpus_index": 448,
+    "title": "Israel’s startup ecosystem: down but not out",
+    "source": "TechCrunch",
+    "published_at": "2023-10-13T19:10:07+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-ea0f2be4c0fd36b07f03874226d882e2"
+  },
+  {
+    "corpus_index": 449,
+    "title": "Patriots vs. Broncos live score, updates, highlights from NFL Sunday night football game",
+    "source": "Sporting News",
+    "published_at": "2023-12-24T23:00:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-aa5e09d85a1d64904c25e110115ec653"
+  },
+  {
+    "corpus_index": 450,
+    "title": "Adobe: Thanksgiving US online sales nudge up to $5.6B; Salesforce: $31.7B spent globally",
+    "source": "TechCrunch",
+    "published_at": "2023-11-24T15:43:51+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-2488e3f989fc20fa32ceed1b534310de"
+  },
+  {
+    "corpus_index": 451,
+    "title": "‘Biggest win of my career’: De Minaur, Popyrin power Australia into Davis Cup final",
+    "source": "The Age",
+    "published_at": "2023-11-24T23:10:22+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-cb1f5032c4aa0762db84ccbb4a6425a6"
+  },
+  {
+    "corpus_index": 452,
+    "title": "A field guide to the vampire authors who were probably vampires",
+    "source": "Polygon",
+    "published_at": "2023-11-09T17:12:20+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-27afc1c6b5cb699ee64a83a94079665b"
+  },
+  {
+    "corpus_index": 453,
+    "title": "The best surprise vampires in things you did not expect to see vampires",
+    "source": "Polygon",
+    "published_at": "2023-11-15T18:02:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-e04524407814c36a751bb23aad74d216"
+  },
+  {
+    "corpus_index": 454,
+    "title": "The best gifts to level up a home theater",
+    "source": "Polygon",
+    "published_at": "2023-12-13T16:30:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-beb78d900270b6fdb77d45b0a16cea78"
+  },
+  {
+    "corpus_index": 455,
+    "title": "Warner Music Group boss Robert Kyncl on AI, why labels still exist, and 2 other things we learned from his Q&A at the Code Conference",
+    "source": "Music Business Worldwide",
+    "published_at": "2023-09-28T23:37:22+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-5b9e00b64853b4db0a48451897d5d6b7"
+  },
+  {
+    "corpus_index": 456,
+    "title": "French soccer players back African mobile video network StarNews Mobile in $3M round",
+    "source": "TechCrunch",
+    "published_at": "2023-10-30T19:14:32+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-0345f21defd9dec1c4efff18738efb2e"
+  },
+  {
+    "corpus_index": 457,
+    "title": "EU commissioner sidesteps MEPs’ questions about CSAM microtargeting",
+    "source": "TechCrunch",
+    "published_at": "2023-10-25T21:02:44+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-ef6ca666c1337e8cc00420767dfef7f0"
+  },
+  {
+    "corpus_index": 458,
+    "title": "10 Minute School aims to democratize education for Bangladeshi students",
+    "source": "TechCrunch",
+    "published_at": "2023-10-12T03:00:44+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-9c94a378934e5d0272215945ff61f9f2"
+  },
+  {
+    "corpus_index": 459,
+    "title": "'We know far more about the deep ocean than the moon or Mars,' says explorer Jon Copley",
+    "source": "Live Science: The Most Interesting Articles",
+    "published_at": "2023-09-28T11:01:16+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-d959d644c3175fde7956847a552ff180"
+  },
+  {
+    "corpus_index": 460,
+    "title": "'They seemed primed to take over': How the Great Dying doomed the 'beast tooth' and set the stage for the dawn of the dinosaurs",
+    "source": "Live Science: The Most Interesting Articles",
+    "published_at": "2023-10-01T08:00:25+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-66332d7d25e3c2077178081af85e0c90"
+  },
+  {
+    "corpus_index": 461,
+    "title": "The new, ‘efficient’ Spotify has a very different approach to podcasting",
+    "source": "The Verge",
+    "published_at": "2023-10-25T16:10:29+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-5fb0a692e270aa6bad071d7198b4f039"
+  },
+  {
+    "corpus_index": 462,
+    "title": "Concert movies are the future of pop music fandom",
+    "source": "Polygon",
+    "published_at": "2023-11-07T17:01:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-7d1a2069b71340ff65fefb4d811cd637"
+  },
+  {
+    "corpus_index": 463,
+    "title": "From FAPE/PEAC to PhilEd",
+    "source": "Business World",
+    "published_at": "2023-11-12T16:04:21+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-c5878d5351b0d5e9b71a8d1af2f78609"
+  },
+  {
+    "corpus_index": 464,
+    "title": "Hipgnosis Songs Fund Chair, Andrew Sutch, to step down; all-important ‘continuation vote’ likely to take place on October 26",
+    "source": "Music Business Worldwide",
+    "published_at": "2023-09-28T23:36:54+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-36f11ebffe760fd5372e8ab4475fa61e"
+  },
+  {
+    "corpus_index": 465,
+    "title": "Meet Alliance DAO’s latest accelerator cohort of startups building in crypto winter",
+    "source": "TechCrunch",
+    "published_at": "2023-10-18T18:00:33+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-2b5a5b884357866701a56a43924700d1"
+  },
+  {
+    "corpus_index": 466,
+    "title": "What about the Mediterranean lifestyle reduces mortality? Scientists find out",
+    "source": "Advanced Science News",
+    "published_at": "2023-09-26T09:49:27+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-b7301001874ccc5e8e2a91ec2c0aaee6"
+  },
+  {
+    "corpus_index": 467,
+    "title": "Ultraprocessed foods with ‘feel-good chemicals’ could be as addictive as cigarettes and drugs, study suggests",
+    "source": "FOX News - Health",
+    "published_at": "2023-10-19T09:30:48+00:00",
+    "category": "health",
+    "minirag_doc_id": "doc-baa9db27614e8cb920e25dc446cb7921"
+  },
+  {
+    "corpus_index": 468,
+    "title": "Republicans still don’t know how to talk to young voters online",
+    "source": "TechCrunch",
+    "published_at": "2023-10-02T21:42:14+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-0a2dc784bac19e9d7fb99e1b52622fe9"
+  },
+  {
+    "corpus_index": 469,
+    "title": "Gag City is a viral win for Nicki Minaj",
+    "source": "TechCrunch",
+    "published_at": "2023-12-09T02:34:35+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-fa746990e4fedf393a7f75d6e48a1b68"
+  },
+  {
+    "corpus_index": 470,
+    "title": "Fifth Third 1.67% Cash/Back Card: One of the simplest cash back credit cards with an above-average return",
+    "source": "Fortune",
+    "published_at": "2023-11-13T22:03:50+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-7fab3cafca29ab73009ea1bc6ab0721a"
+  },
+  {
+    "corpus_index": 471,
+    "title": "American Express Cash Magnet® Card review: a simple, no-nonsense cash back card",
+    "source": "Fortune",
+    "published_at": "2023-11-03T20:07:05+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-566d214485b2b410483f65f56e2600a4"
+  },
+  {
+    "corpus_index": 472,
+    "title": "Could CRISPR cure HIV someday?",
+    "source": "Live Science: The Most Interesting Articles",
+    "published_at": "2023-11-30T21:34:30+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-7510f14f86c8e1d9efb38bd654b8f9d0"
+  },
+  {
+    "corpus_index": 473,
+    "title": "Here are the shipping deadlines to get your holiday gifts on time",
+    "source": "The Verge",
+    "published_at": "2023-12-18T19:26:44+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-169c24806775e280c99d64689d74f329"
+  },
+  {
+    "corpus_index": 474,
+    "title": "Will the Panthers fire Frank Reich? Impatient David Tepper could turn up Carolina's hot seat with 'Thursday Night Football' loss",
+    "source": "Sporting News",
+    "published_at": "2023-11-06T21:17:51+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-bb3dc8f0938e06de84482abf5786ddc5"
+  },
+  {
+    "corpus_index": 475,
+    "title": "No. 17 Arizona dominates No. 22 Utah, 42-18",
+    "source": "Rivals",
+    "published_at": "2023-11-18T23:45:32+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-00f562fc880218a88f8c404b94e3f998"
+  },
+  {
+    "corpus_index": 476,
+    "title": "Gabriel Jesus’s sublime goal and assist gives Arsenal vital victory in Sevilla",
+    "source": "The Guardian",
+    "published_at": "2023-10-24T21:06:55+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-f5a872121535ca7fe04b9ddf4278abb1"
+  },
+  {
+    "corpus_index": 477,
+    "title": "Attorney general going after Jeffrey Epstein's estate says she was fired for her dogged pursuit: 'My bar license, my integrity were more important to me'",
+    "source": "Fortune",
+    "published_at": "2023-11-17T21:59:14+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-585297d1c9c9a7ce80f31bbd8ea4369d"
+  },
+  {
+    "corpus_index": 478,
+    "title": "Tottenham’s Unbeaten Run Ends With 4-1 Home Loss to Chelsea",
+    "source": "Sport Grill",
+    "published_at": "2023-11-06T22:18:35+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-440c1869f2ec3971be7ca12f28f47441"
+  },
+  {
+    "corpus_index": 479,
+    "title": "The housing winter arrives early as existing home sales crash to Great Recession levels and the long-feared ‘deep freeze’ sets in",
+    "source": "Fortune",
+    "published_at": "2023-10-20T20:30:29+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-64c9c1af19ca529a96fd5694fa0b0d91"
+  },
+  {
+    "corpus_index": 480,
+    "title": "Shohei Ohtani rumors tracker: Latest news, updates on free agent's MLB future",
+    "source": "Sporting News",
+    "published_at": "2023-11-27T21:20:11+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-af1184f4d7b878416330802b0939133e"
+  },
+  {
+    "corpus_index": 481,
+    "title": "“We Sell More F-150s to NASCAR Fans” – Ford Insider Reveals Insane Mustang Stat Amid Big Change",
+    "source": "Essentially Sports",
+    "published_at": "2023-11-06T23:01:17+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-ea00eb7e3be26778c81d6ed78e36ed6d"
+  },
+  {
+    "corpus_index": 482,
+    "title": "ICC World Cup 2023 Most Runs and Wickets: Full List of top 10 batsmen and bowlers in 2023 edition of cricket World Cup, Know where Virat Kohli, Rohit Sharma, Shami, Bumrah, rank",
+    "source": "Zee Business",
+    "published_at": "2023-11-18T15:51:59+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-bafed79d3ea400ebc137ea9cbbc0549c"
+  },
+  {
+    "corpus_index": 483,
+    "title": "Blackhawks vs. Penguins live score, updates, highlights from Connor Bedard's NHL debut",
+    "source": "Sporting News",
+    "published_at": "2023-10-10T22:30:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-9860f469691f51c0d2e5c75a1b898f6e"
+  },
+  {
+    "corpus_index": 484,
+    "title": "Ole Miss vs. Georgia live score, updates, highlights from Week 11 college football game",
+    "source": "Sporting News",
+    "published_at": "2023-11-11T22:23:02+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-bf53a1851c84ea4411b6fcd96e8627f8"
+  },
+  {
+    "corpus_index": 485,
+    "title": "ASX set to rise ahead of inflation report after big tech lifts Wall Street",
+    "source": "The Sydney Morning Herald",
+    "published_at": "2023-10-24T20:05:06+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-eca5bd99bd7d118df69b2b86fc377fd8"
+  },
+  {
+    "corpus_index": 486,
+    "title": "Israel thwarts Hamas on the financial battlefield",
+    "source": "Globes English | Israel Business Arena",
+    "published_at": "2023-11-19T19:05:30+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-78894b9aa02d41d64981b7df6e669388"
+  },
+  {
+    "corpus_index": 487,
+    "title": "NASCAR offseason news roundup: Short track testing in Phoenix, new spotters for stars, more moves for 2024",
+    "source": "CBSSports.com",
+    "published_at": "2023-12-07T20:15:30+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-1c6228360b519d4361ed9fae844d84da"
+  },
+  {
+    "corpus_index": 488,
+    "title": "Spill toasts one year with a 2.7M seed extension, Kerry Washington and champagne",
+    "source": "TechCrunch",
+    "published_at": "2023-11-07T17:08:04+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-63c9131b1ee732bf09de76e1333eefff"
+  },
+  {
+    "corpus_index": 489,
+    "title": "Bears vs. Panthers live score, updates, highlights from NFL 'Thursday Night Football' game",
+    "source": "Sporting News",
+    "published_at": "2023-11-09T23:04:33+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-ca12c242ebb932549e932d43025178e7"
+  },
+  {
+    "corpus_index": 490,
+    "title": "Rollback Policy, a Boon or a Curse? The Controversial System That Might Redefine the Golfing World by the End of 2030",
+    "source": "Essentially Sports",
+    "published_at": "2023-12-03T23:45:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-58234c94bf9f31c8ccddcb23f0f8455b"
+  },
+  {
+    "corpus_index": 491,
+    "title": "The Apple Watch’s double tap gesture points at a new way to use wearables",
+    "source": "The Verge",
+    "published_at": "2023-10-25T17:04:01+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-62bc6f016e3435bcba2ffda0353289fc"
+  },
+  {
+    "corpus_index": 492,
+    "title": "‘Right people in right roles’: QRU breaks silence on RA’s reform hopes, backs review into Wallabies’ RWC flop",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-10-10T23:06:29+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-ffda26a885d71fadd1694c29115d9745"
+  },
+  {
+    "corpus_index": 493,
+    "title": "RA set to announce local as high-performance director – and how it could help land Schmidt as Wallabies coach",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-12-11T22:30:02+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-d744f09c06753fefeb692b93c1ef86dd"
+  },
+  {
+    "corpus_index": 494,
+    "title": "Fantasy Football RB Rankings Week 12: Who to start, best sleepers at running back",
+    "source": "Sporting News",
+    "published_at": "2023-11-21T21:33:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-ada96ee97d9835c4cb69ec9c8a371023"
+  },
+  {
+    "corpus_index": 495,
+    "title": "World Series 2023 live score: Rangers vs. Diamondbacks updates, highlights, results from Game 3",
+    "source": "Sporting News",
+    "published_at": "2023-10-30T22:00:02+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-4ccff9b55c812ee2bb353609e540fa45"
+  },
+  {
+    "corpus_index": 496,
+    "title": "A provocative role for technologists in product innovation",
+    "source": "TechCrunch",
+    "published_at": "2023-12-21T16:35:31+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-ef4a304a43b0aaad3789894282ac7de2"
+  },
+  {
+    "corpus_index": 497,
+    "title": "NBA Prop Bets - Best Team and Player Props 2023/24 Season",
+    "source": "Sporting News",
+    "published_at": "2023-10-02T23:49:35+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-77e840e5c7ae9949b0f1aa8adf5c8a62"
+  },
+  {
+    "corpus_index": 498,
+    "title": "The UK just laid out new rules for the internet — it only gets harder from here",
+    "source": "The Verge",
+    "published_at": "2023-11-09T00:01:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-c4f1c45a1dbe61ac98a073ff1175dbdf"
+  },
+  {
+    "corpus_index": 499,
+    "title": "How to get Pumpkin Tickets, Jack-o’-Head armor in Monster Hunter Now’s Halloween event",
+    "source": "Polygon",
+    "published_at": "2023-10-25T09:26:55+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-5e8698f2bcf26ef0b03e99cf97b6a686"
+  },
+  {
+    "corpus_index": 500,
+    "title": "49ers cap space 2024: Why Chase Young trade may not be a pure rental for San Francisco",
+    "source": "Sporting News",
+    "published_at": "2023-10-31T22:22:43+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-ea3de9bcf0e41525ccc8f97135c87950"
+  },
+  {
+    "corpus_index": 501,
+    "title": "'In God We Trust' essential to America's future as national faith appears to wane, says Washington pastor",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-09-26T09:10:29+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-62fb9fb05bc92aca9406157a2d93a5a5"
+  },
+  {
+    "corpus_index": 502,
+    "title": "Emily Ratajkowski’s latest photo shoot sparks fury",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-11-30T20:02:31+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-ce2b627526e9dfa3438b0d700d98327b"
+  },
+  {
+    "corpus_index": 503,
+    "title": "Economists, central bankers are rethinking the quantitative easing strategy that saved the world but created bubbles and distortions",
+    "source": "Fortune",
+    "published_at": "2023-10-22T15:26:11+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-87a4602c9842c059f7d61e110298fbee"
+  },
+  {
+    "corpus_index": 504,
+    "title": "Michigan’s Rivals Fume About Sign-Stealing: ‘This Was Damn Near Espionage’",
+    "source": "The New York Times",
+    "published_at": "2023-11-03T22:07:31+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-55c01944339d0ca6688c1e049130e666"
+  },
+  {
+    "corpus_index": 505,
+    "title": "Discord’s latest teen safety blitz starts with content filters and automated warnings",
+    "source": "Engadget",
+    "published_at": "2023-10-19T15:00:31+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-4bd7c377a995351a350a6b03e7c1166b"
+  },
+  {
+    "corpus_index": 506,
+    "title": "The airline parts scandal sparking panic and introspection in aerospace",
+    "source": "The Sydney Morning Herald",
+    "published_at": "2023-10-16T20:58:51+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-1fcc696d3b1f8d5688709b42b9fe0eed"
+  },
+  {
+    "corpus_index": 507,
+    "title": "Flipboard becomes a federated app with support for ActivityPub",
+    "source": "TechCrunch",
+    "published_at": "2023-12-18T16:00:49+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-1c421126646c99452596842d53b2c14a"
+  },
+  {
+    "corpus_index": 508,
+    "title": "2023 in social media: the case for the fediverse",
+    "source": "The Verge",
+    "published_at": "2023-12-19T13:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-cf8d7a733db38866ef7e99ade9242756"
+  },
+  {
+    "corpus_index": 509,
+    "title": "The new American Dream is to get MrBeast to pay off your debt",
+    "source": "TechCrunch",
+    "published_at": "2023-12-21T14:00:20+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-cb9a066f3d3d91b4bbea48c29c5c4465"
+  },
+  {
+    "corpus_index": 510,
+    "title": "SoftBank Corp takes 51% of Cubic Telecom for $513M to drive into the connected car world",
+    "source": "TechCrunch",
+    "published_at": "2023-12-05T07:24:23+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-d85eac93c44cda2e0f36c181ad6858e4"
+  },
+  {
+    "corpus_index": 511,
+    "title": "A tale of two research institutes",
+    "source": "TechCrunch",
+    "published_at": "2023-10-01T13:51:56+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-7168e8e88af7de5f5d34acce019ef3ad"
+  },
+  {
+    "corpus_index": 512,
+    "title": "World Series Game 2: Arizona Diamondbacks v Texas Rangers – live",
+    "source": "The Guardian",
+    "published_at": "2023-10-28T23:00:28+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-260dc9cf1bdc1def064e5e3cebec76d1"
+  },
+  {
+    "corpus_index": 513,
+    "title": "From winter fun to summer sun: your seasonal guide to diverse Dubai",
+    "source": "The Independent - Travel",
+    "published_at": "2023-11-17T12:01:11+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-204d2be1b8d27b8295a1e3fd513190a3"
+  },
+  {
+    "corpus_index": 514,
+    "title": "Tesla ‘digs its own grave with the Cybertruck,’ Convoy collapses and Rivian scores a win at Rebelle",
+    "source": "TechCrunch",
+    "published_at": "2023-10-22T19:15:29+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-31cc7c3a17f5fed269591f16bfaf41b5"
+  },
+  {
+    "corpus_index": 515,
+    "title": "MVPs for all 16 AFC teams at the midpoint",
+    "source": "Yardbarker",
+    "published_at": "2023-11-09T21:51:02+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-59b02a753936b4b286cfdd372bc817da"
+  },
+  {
+    "corpus_index": 516,
+    "title": "Sam Altman ousted as OpenAI’s CEO",
+    "source": "TechCrunch",
+    "published_at": "2023-11-17T20:41:13+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-3d15adc0d2a68b38625dbee71ebfa6f3"
+  },
+  {
+    "corpus_index": 517,
+    "title": "YouTube demonetizes popular content creator SSSniperwolf after doxxing accusations",
+    "source": "Polygon",
+    "published_at": "2023-10-25T18:18:06+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-01db843a9ca076cefd4c786a3555cb36"
+  },
+  {
+    "corpus_index": 518,
+    "title": "Cell phone shocker as 97% of kids use their device during school hours and beyond, says study",
+    "source": "FOX News - Health",
+    "published_at": "2023-10-01T09:05:26+00:00",
+    "category": "health",
+    "minirag_doc_id": "doc-d9b1942ab64d6a8016fe42326eed268f"
+  },
+  {
+    "corpus_index": 519,
+    "title": "The best portable chargers for your gear",
+    "source": "Polygon",
+    "published_at": "2023-11-17T13:10:12+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-5a9138e9510ec38fd58dba5823d9ea9c"
+  },
+  {
+    "corpus_index": 520,
+    "title": "78 Absolute Best October Prime Day Deals (2023)",
+    "source": "Wired",
+    "published_at": "2023-10-10T14:23:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-6cfe9a660314d7a74bb5486177be25d5"
+  },
+  {
+    "corpus_index": 521,
+    "title": "Here are the best Kindle deals right now",
+    "source": "The Verge",
+    "published_at": "2023-10-16T21:40:46+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-3b2440eb2633465c593521593294eef8"
+  },
+  {
+    "corpus_index": 522,
+    "title": "Golden State's draft misses are starting to add up",
+    "source": "Yardbarker",
+    "published_at": "2023-11-29T20:41:32+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-528023c4dd76584c2a56574e716f0f34"
+  },
+  {
+    "corpus_index": 523,
+    "title": "‘Is this worth it?’: The difficult questions the Shameless founders have had to ask each other",
+    "source": "The Age",
+    "published_at": "2023-10-07T18:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-23354f21aba2392c600339f568f7c368"
+  },
+  {
+    "corpus_index": 524,
+    "title": "The Steam Deck OLED arrives November 16 with an improved screen and longer battery life",
+    "source": "Engadget",
+    "published_at": "2023-11-09T18:00:32+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-f9edc9c3f954d50e17120383377765e7"
+  },
+  {
+    "corpus_index": 525,
+    "title": "EU says incoming rules for general purpose AIs can evolve over time",
+    "source": "TechCrunch",
+    "published_at": "2023-12-11T17:57:55+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-7079ba6c3e54cc3589236d087f7ecc1c"
+  },
+  {
+    "corpus_index": 526,
+    "title": "Apple 16-inch M3 Max MacBook Pro review: A desktop among laptops",
+    "source": "TechCrunch",
+    "published_at": "2023-11-06T14:00:15+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-9f89ba4bf3517488ccd76033a4650673"
+  },
+  {
+    "corpus_index": 527,
+    "title": "14 Best Deals: TVs, Keyboards, Mice, Chargers, and Earbuds",
+    "source": "Wired",
+    "published_at": "2023-10-19T15:56:15+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-de9b266d8ac65982f070b0266a88b22f"
+  },
+  {
+    "corpus_index": 528,
+    "title": "Amazon’s Tye Brady discusses generative AI, humanoid robots and mobile manipulation",
+    "source": "TechCrunch",
+    "published_at": "2023-10-28T13:04:25+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-b0010013262e58d6597ad6adcfa2e9ea"
+  },
+  {
+    "corpus_index": 529,
+    "title": "Donald Trump defrauded banks with 'fantasy' to build his real estate empire, judge rules in a major repudiation against the former president",
+    "source": "Fortune",
+    "published_at": "2023-09-26T21:11:15+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-31c3323fb9b83f2d8d11c87663c5a4e1"
+  },
+  {
+    "corpus_index": 530,
+    "title": "The $777 million surprise: Donald Trump is getting richer",
+    "source": "The Age",
+    "published_at": "2023-11-07T22:22:05+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-d13e0794640364479f45ebf4bd7b93af"
+  },
+  {
+    "corpus_index": 531,
+    "title": "M.L.B. Superstar Shohei Ohtani to Sign $700 Million Deal With Dodgers",
+    "source": "The New York Times",
+    "published_at": "2023-12-09T22:04:02+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-1a807e6512af59ba82d800560fda0a35"
+  },
+  {
+    "corpus_index": 532,
+    "title": "India to be one of world's fastest growing economies over next decade",
+    "source": "Zee Business",
+    "published_at": "2023-10-14T12:17:33+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-84f2c334fa5dd759d99c64a503f07ac9"
+  },
+  {
+    "corpus_index": 533,
+    "title": "Diablo 4 season 2’s biggest draw is its quality-of-life updates",
+    "source": "Polygon",
+    "published_at": "2023-10-04T20:01:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-ad4e83e92e14e1269c5564baf771926f"
+  },
+  {
+    "corpus_index": 534,
+    "title": "Argentina vs Paraguay live score, result, updates, highlights from CONMEBOL World Cup qualifying",
+    "source": "Sporting News",
+    "published_at": "2023-10-12T23:22:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-739a0ccd04d2b168bed249a5458839e4"
+  },
+  {
+    "corpus_index": 535,
+    "title": "Inter Miami friendly matches for 2024 preseason: Lionel Messi to play Newell's Old Boys, China tour cancelled",
+    "source": "Sporting News",
+    "published_at": "2023-11-30T21:41:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-3e4add1ea7096a597688fe0dd33036c5"
+  },
+  {
+    "corpus_index": 536,
+    "title": "The inside story of Dave Clark's tumultuous last days at Flexport",
+    "source": "Cnbc | World Business News Leader",
+    "published_at": "2023-10-02T17:46:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-391284aeae2e496389b8092e5194ff13"
+  },
+  {
+    "corpus_index": 537,
+    "title": "Cruise hits the brakes on driverless, UAW makes progress and more EV backpedaling",
+    "source": "TechCrunch",
+    "published_at": "2023-10-30T10:15:24+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-ac47b2506f40fc8e82267609ff882f4a"
+  },
+  {
+    "corpus_index": 538,
+    "title": "Thirty-seven phases of agony define Ireland’s greatest heartbreak as curse continues",
+    "source": "The Independent - Sports",
+    "published_at": "2023-10-14T21:36:10+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-84f70954ef04dbe9c7e5e66cc83f1368"
+  },
+  {
+    "corpus_index": 539,
+    "title": "CEO David Baszucki’s mission to make Roblox a billion-player platform",
+    "source": "The Verge",
+    "published_at": "2023-10-12T14:01:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-bbc938854605f246344b0541c6d72fcc"
+  },
+  {
+    "corpus_index": 540,
+    "title": "Beeper reversed engineered iMessage to bring blue bubble texts to Android users",
+    "source": "TechCrunch",
+    "published_at": "2023-12-05T15:00:57+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-373bdac62d6c8be7bbd49d83c16601e1"
+  },
+  {
+    "corpus_index": 541,
+    "title": "Ange aghast as Spurs suffer ‘unbelievable’ West Ham turnaround – with two of the worst goals you’ll see",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-12-07T22:28:31+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-6e884725dbf3adf99c0843bcd7c00288"
+  },
+  {
+    "corpus_index": 542,
+    "title": "Liverpool enjoy home comforts but Dyche’s Everton offer derby danger | Andy Hunter",
+    "source": "The Guardian",
+    "published_at": "2023-10-20T21:30:28+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-d241f3c0c21ca102b537fa9d3dfc3e11"
+  },
+  {
+    "corpus_index": 543,
+    "title": "Theatre producer and Everton chairman Kenwright dies",
+    "source": "BBC News - Entertainment & Arts",
+    "published_at": "2023-10-24T16:32:09+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-0a892f9738d1c1dc61fd616bb397880d"
+  },
+  {
+    "corpus_index": 544,
+    "title": "NFL DFS picks Week 15: Best sleepers, value players for FanDuel, DraftKings, SuperDraft lineups",
+    "source": "Sporting News",
+    "published_at": "2023-12-13T20:32:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-55fbf6366f4b44195f87499874d4f399"
+  },
+  {
+    "corpus_index": 545,
+    "title": "Can anyone survive Fortnite as a job?",
+    "source": "Polygon",
+    "published_at": "2023-10-19T16:01:20+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-b685550a4d6465a08be65bca74f30081"
+  },
+  {
+    "corpus_index": 546,
+    "title": "Manchester United out of Europe after defeat to Bayern Munich",
+    "source": "The Independent - Sports",
+    "published_at": "2023-12-12T22:38:05+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-97e5f1bda38c113fd02b18c2e535c1ad"
+  },
+  {
+    "corpus_index": 547,
+    "title": "What’s up with Tesla’s Cybertruck? Everything to know about much-hyped electric pickup",
+    "source": "TechCrunch",
+    "published_at": "2023-11-30T12:05:46+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-ce72ae465c9424e3608c4a6071d63bfd"
+  },
+  {
+    "corpus_index": 548,
+    "title": "If the Cybertruck is deadly for pedestrians, it’s because all large trucks are",
+    "source": "The Verge",
+    "published_at": "2023-12-12T17:10:27+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-185b530c60728b498461f6a4c102084b"
+  },
+  {
+    "corpus_index": 549,
+    "title": "Fortnite is the latest game to entice players with a portal to the past",
+    "source": "TechCrunch",
+    "published_at": "2023-10-30T19:18:39+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-94360d41a1a634eaa9962291235d624c"
+  },
+  {
+    "corpus_index": 550,
+    "title": "VTubers have reached their inevitable conclusion",
+    "source": "Polygon",
+    "published_at": "2023-10-19T16:01:50+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-4824c0accf8535ad856c572189da0711"
+  },
+  {
+    "corpus_index": 551,
+    "title": "TwitchCon 2023 was better than last year, but everyone hated Las Vegas",
+    "source": "TechCrunch",
+    "published_at": "2023-10-26T00:15:43+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-0e2a12933a8ac254faf40cfe46b99cd3"
+  },
+  {
+    "corpus_index": 552,
+    "title": "Fantasy Football TE PPR Rankings Week 14: Who to start, best sleepers at tight end",
+    "source": "Sporting News",
+    "published_at": "2023-12-07T22:14:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-2c468088ec6a91bedd6b2ea8cb64ed58"
+  },
+  {
+    "corpus_index": 553,
+    "title": "Fantasy Football QB Rankings Week 14: Who to start, best sleepers at quarterback",
+    "source": "Sporting News",
+    "published_at": "2023-12-07T22:06:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-c6816f8f819d3656d212b83a29c6ba8f"
+  },
+  {
+    "corpus_index": 554,
+    "title": "Totals Betting - What is an Over/Under Bet?",
+    "source": "Sporting News",
+    "published_at": "2023-11-01T22:08:31+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-a9f4a66535eb143038ff17c2916a708b"
+  },
+  {
+    "corpus_index": 555,
+    "title": "The best places to see the Northern Lights in the UK",
+    "source": "The Independent - Travel",
+    "published_at": "2023-12-21T13:01:28+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-2570010b01092f479ed0b8d391d3f8ea"
+  },
+  {
+    "corpus_index": 556,
+    "title": "See stunning images of STEVE and auroras from this weekend's powerful solar storm",
+    "source": "Live Science: The Most Interesting Articles",
+    "published_at": "2023-11-09T14:51:14+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-3867db1d1c4867f8a60b647ab45dd235"
+  },
+  {
+    "corpus_index": 557,
+    "title": "Fly with Delta frequently? Small business owners can score a solid welcome bonus and other perks with the Delta SkyMiles Gold Business Card",
+    "source": "Fortune",
+    "published_at": "2023-12-12T21:01:43+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-1c9710313b9f08221eaabf16dac33f46"
+  },
+  {
+    "corpus_index": 558,
+    "title": "Shop 200+ Walmart doorbuster deals for Black Friday",
+    "source": "Mashable",
+    "published_at": "2023-11-25T01:13:44+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-b149f58c2273db20f67184820d6def1a"
+  },
+  {
+    "corpus_index": 559,
+    "title": "Travis Kelce admits the NFL is overdoing it with their Taylor Swift coverage",
+    "source": "The Independent - Life and Style",
+    "published_at": "2023-10-04T19:58:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-45c88b66c8166eefa10fb45d8ab19c25"
+  },
+  {
+    "corpus_index": 560,
+    "title": "Inside the $US2.3b venue that will transform the concert industry",
+    "source": "The Sydney Morning Herald",
+    "published_at": "2023-10-19T18:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-834a101878e9f00ceebc9ef5173105de"
+  },
+  {
+    "corpus_index": 561,
+    "title": "‘As clinical as it gets’: Unbeaten Aussie moves to 24-0 with stunning first-round KO of hapless Englishman",
+    "source": "The Roar | Sports Writers Blog",
+    "published_at": "2023-12-23T23:03:15+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-daff2473a0549423fffed12440c15992"
+  },
+  {
+    "corpus_index": 562,
+    "title": "'Angels, demons, spirits and souls do exist,' says exorcist priest who warns against Ouija board use",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-10-30T09:45:20+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-9d2a7ba6a1f713a9732ef46331fc966b"
+  },
+  {
+    "corpus_index": 563,
+    "title": "The best horror movies you can watch right now",
+    "source": "Polygon",
+    "published_at": "2023-09-28T15:26:41+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-e805763be2553da534f4fd57c657bc13"
+  },
+  {
+    "corpus_index": 564,
+    "title": "EU lawmakers bag late night deal on ‘global first’ AI rules",
+    "source": "TechCrunch",
+    "published_at": "2023-12-09T02:28:09+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-c9d0cbc2ffd58d099e187d9a2504aa5a"
+  },
+  {
+    "corpus_index": 565,
+    "title": "Mysterious dog respiratory illness: What to know",
+    "source": "Yahoo News",
+    "published_at": "2023-11-21T20:37:35+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-dcd77f995d766c19b694ae37fbf20bbd"
+  },
+  {
+    "corpus_index": 566,
+    "title": "Dangerous 'superbugs' are a growing threat, and antibiotics can't stop their rise. What can?",
+    "source": "Live Science: The Most Interesting Articles",
+    "published_at": "2023-10-01T11:00:46+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-48fa1e5fcc24144f3add0158b9bc26e9"
+  },
+  {
+    "corpus_index": 567,
+    "title": "The 26 best Amazon Prime Day deals you can still shop for today",
+    "source": "Engadget",
+    "published_at": "2023-10-12T15:44:16+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-202f52f38610f9c90802d0c87133fb41"
+  },
+  {
+    "corpus_index": 568,
+    "title": "Colorado vs. Arizona State live score, updates, highlights from Week 6 college football game",
+    "source": "Sporting News",
+    "published_at": "2023-10-07T21:21:03+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-1b2d48b7f9735d41322d3c46a4e1796a"
+  },
+  {
+    "corpus_index": 569,
+    "title": "Faith dilemma: How effective is positive thinking when life gets difficult? Pastor weighs in",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-10-28T09:00:12+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-4b75fd5c510fedb650c437bdf00b77ac"
+  },
+  {
+    "corpus_index": 570,
+    "title": "Jonathan Roumie on faith and prayer life during Advent and always: 'God hasn't forsaken us'",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-12-05T09:00:54+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-1180b39409138dd87dd598cb8d62f672"
+  },
+  {
+    "corpus_index": 571,
+    "title": "Ten Hag responds to Carra: Man Utd have actually improved",
+    "source": "Sky Sports",
+    "published_at": "2023-10-28T21:30:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-58c4a5a2948d6e80776f49e1b8784f7f"
+  },
+  {
+    "corpus_index": 572,
+    "title": "7 of the best ski holidays in Canada",
+    "source": "The Independent - Travel",
+    "published_at": "2023-10-25T11:51:09+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-05689670cdb0ef5a149a9c44a9ad6130"
+  },
+  {
+    "corpus_index": 573,
+    "title": "7 of the best luxury ski resorts for a five-star experience",
+    "source": "The Independent - Travel",
+    "published_at": "2023-10-13T16:14:21+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-515becbcd5ca30c85c6b9d1885511cc7"
+  },
+  {
+    "corpus_index": 574,
+    "title": "How to tackle Black Friday shopping like a boss",
+    "source": "Polygon",
+    "published_at": "2023-11-12T15:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-385af842be20ea393b4d3cf34fcb19d6"
+  },
+  {
+    "corpus_index": 575,
+    "title": "Some of our favorite devices are on sale for Black Friday.",
+    "source": "The Verge",
+    "published_at": "2023-11-24T15:42:21+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-7c0d229858a98804126f478552c16e3f"
+  },
+  {
+    "corpus_index": 576,
+    "title": "54 Best Apple Black Friday Deals (2023): iPad, Apple Watch, AirPods",
+    "source": "Wired",
+    "published_at": "2023-11-25T00:00:29+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-b5b0654b0a843a475b0dd0e339315ec2"
+  },
+  {
+    "corpus_index": 577,
+    "title": "UFC 295 predictions, best bets, odds: Tom Aspinall, Mackenzie Dern among top picks to consider",
+    "source": "CBSSports.com",
+    "published_at": "2023-11-11T21:30:46+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-371f18e22189274a6a7623bf52fe4f50"
+  },
+  {
+    "corpus_index": 578,
+    "title": "He killed Jon Snow. Now Owen Teale is coming to ruin your Christmas",
+    "source": "The Sydney Morning Herald",
+    "published_at": "2023-10-20T12:22:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-b5cb4b790ac6b170863784894b9dfaac"
+  },
+  {
+    "corpus_index": 579,
+    "title": "Subtle as a sledgehammer, a pop icon returns",
+    "source": "The Age",
+    "published_at": "2023-11-30T18:30:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-2c58c59868d29bd0d1f8cf5f935f4dff"
+  },
+  {
+    "corpus_index": 580,
+    "title": "Meltwater, the media monitoring startup, gets a $65M investment from Verdane",
+    "source": "TechCrunch",
+    "published_at": "2023-12-18T10:54:31+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-d74d7ae91d4803a523ba0daa76a7c666"
+  },
+  {
+    "corpus_index": 581,
+    "title": "Earnings week ahead: DocuSign, NIO, Broadcom, GameStop and more",
+    "source": "Seeking Alpha",
+    "published_at": "2023-12-03T13:02:00+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-23fe8cd19fc465279b875bac9d28d201"
+  },
+  {
+    "corpus_index": 582,
+    "title": "Looking for a book to read? Here are 14 tips for October",
+    "source": "The Sydney Morning Herald",
+    "published_at": "2023-10-01T21:04:20+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-03f65bf142cde5500650c1ac600a623f"
+  },
+  {
+    "corpus_index": 583,
+    "title": "Patriots vs. Steelers FanDuel Picks: NFL DFS lineup advice for Week 14 TNF single-game tournaments",
+    "source": "Sporting News",
+    "published_at": "2023-12-07T21:26:00+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-4016ec7fdb2fe979eddb2499ad5db4b6"
+  },
+  {
+    "corpus_index": 584,
+    "title": "The best anti-Prime Big Deal Day deals",
+    "source": "The Verge",
+    "published_at": "2023-10-10T22:24:13+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-d624cfde07ae5f92630d9da4059f8b3d"
+  },
+  {
+    "corpus_index": 585,
+    "title": "Who Are Mikaela Shiffrin’s Parents? All You Need to Know About Skiing Legend’s Family",
+    "source": "Essentially Sports",
+    "published_at": "2023-11-03T20:45:11+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-c777d985a19316f6b1fca53706eaa6aa"
+  },
+  {
+    "corpus_index": 586,
+    "title": "Dropout’s dropping CollegeHumor on its 5th anniversary — here’s why and what the future holds",
+    "source": "Polygon",
+    "published_at": "2023-09-26T17:35:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-2c5934c61149ec08ceadc62f41573179"
+  },
+  {
+    "corpus_index": 587,
+    "title": "Jack Skellington turned legendary composer Danny Elfman into a weirdo rock star",
+    "source": "Polygon",
+    "published_at": "2023-10-13T16:30:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-e5c0588d9dca25fd52e4fc56d9ef23cf"
+  },
+  {
+    "corpus_index": 588,
+    "title": "USA vs Germany player ratings: USMNT defensive errors blight positive performance by Pulisic, Weah",
+    "source": "Sporting News",
+    "published_at": "2023-10-14T22:46:31+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-8e875c6253baf9523c19d6200b8bbf7c"
+  },
+  {
+    "corpus_index": 589,
+    "title": "NBA MVP Odds 2024 Season - Jokic and Giannis early favorites",
+    "source": "Sporting News",
+    "published_at": "2023-10-04T22:11:54+00:00",
+    "category": "sports",
+    "minirag_doc_id": "doc-87111e640f6ee1e5ea86cbd10c342756"
+  },
+  {
+    "corpus_index": 590,
+    "title": "‘Zoom fatigue’ is common struggle for remote workers. Here’s how to handle it, according to experts",
+    "source": "FOX News - Health",
+    "published_at": "2023-12-01T11:25:35+00:00",
+    "category": "health",
+    "minirag_doc_id": "doc-0c4ed140bb5ff421d30fb3a0559446fc"
+  },
+  {
+    "corpus_index": 591,
+    "title": "The best tabletop RPGs we played in 2023",
+    "source": "Polygon",
+    "published_at": "2023-12-13T15:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-4fe1fdbb6a70480ffc092d415f33120c"
+  },
+  {
+    "corpus_index": 592,
+    "title": "Rogue Trader’s role-playing embraces the brutality and freedom of Warhammer 40K",
+    "source": "Polygon",
+    "published_at": "2023-12-06T13:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-6fb68898c7b772ffb5a785235e2e3b7d"
+  },
+  {
+    "corpus_index": 593,
+    "title": "Pebble, the Twitter alternative previously known as T2, is shutting down",
+    "source": "TechCrunch",
+    "published_at": "2023-10-24T16:00:41+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-54ddc2052ee2f8a66b724318b3a4aae2"
+  },
+  {
+    "corpus_index": 594,
+    "title": "Pittsburgh boy, 10, needs second liver transplant to save his life: ‘Only possible through love’",
+    "source": "FOX News - Health",
+    "published_at": "2023-12-09T16:31:40+00:00",
+    "category": "health",
+    "minirag_doc_id": "doc-76209713104d0ebd782d084c30f218fe"
+  },
+  {
+    "corpus_index": 595,
+    "title": "The best Prime Day deals on headphones for October 2023",
+    "source": "Engadget",
+    "published_at": "2023-10-10T20:47:12+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-6131fbcc548db0a532cbf0876d2fb1bf"
+  },
+  {
+    "corpus_index": 596,
+    "title": "Israeli girl spends 9th birthday in 'tunnels of Gaza,' with 'no friends, 'no light,' says distraught father",
+    "source": "FOX News - Lifestyle",
+    "published_at": "2023-11-17T09:00:48+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-9eceb83ae128696c7781582c56a48713"
+  },
+  {
+    "corpus_index": 597,
+    "title": "The best comedies you’ll find on streaming right now",
+    "source": "Polygon",
+    "published_at": "2023-10-16T16:54:09+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-d9ac3a63ebb6719445c16fbe3a93ca18"
+  },
+  {
+    "corpus_index": 598,
+    "title": "Palestine’s growing tech industry has been literally blown apart by Israel’s war on Hamas",
+    "source": "TechCrunch",
+    "published_at": "2023-10-14T07:46:27+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-d10fad38390707919ee0f01b2542f112"
+  },
+  {
+    "corpus_index": 599,
+    "title": "Consistent policy is key to unlocking the climate tech boom, but the UK’s U-turn isn’t helping",
+    "source": "TechCrunch",
+    "published_at": "2023-10-13T17:00:20+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-5f000c46ea3e35ebcf58ae6ebe70a405"
+  },
+  {
+    "corpus_index": 600,
+    "title": "41 Best Prime Day Apple Deals (2023)",
+    "source": "Wired",
+    "published_at": "2023-10-10T22:58:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-1acedb401acf989dd0f9b06633c00fbf"
+  },
+  {
+    "corpus_index": 601,
+    "title": "NTPC: Why investors can accumulate this stock",
+    "source": "Business Line",
+    "published_at": "2023-11-11T16:26:58+00:00",
+    "category": "business",
+    "minirag_doc_id": "doc-96aebdb72a9cff273613921391782425"
+  },
+  {
+    "corpus_index": 602,
+    "title": "The world came tantalizingly close to a deal to phase out fossil fuels",
+    "source": "The Verge",
+    "published_at": "2023-12-13T07:27:19+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-5ab35981af5789edb38602726eb01b76"
+  },
+  {
+    "corpus_index": 603,
+    "title": "Daye now offers tampon-based STI screening — starting in the UK",
+    "source": "TechCrunch",
+    "published_at": "2023-11-06T09:30:53+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-4547a99a572f321cde5daacf865b9d49"
+  },
+  {
+    "corpus_index": 604,
+    "title": "Cannabis use in pregnancy linked to small birth size, other poor outcomes",
+    "source": "Live Science: The Most Interesting Articles",
+    "published_at": "2023-12-13T17:21:53+00:00",
+    "category": "science",
+    "minirag_doc_id": "doc-5c4925ff78d91423a99d4fa9828872bf"
+  },
+  {
+    "corpus_index": 605,
+    "title": "Walks, tech and protein: how to parent your own parents",
+    "source": "The Guardian",
+    "published_at": "2023-10-10T09:00:35+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-6f82b6d60548b47eb2b98159bd015ddc"
+  },
+  {
+    "corpus_index": 606,
+    "title": "Super Mario Bros. Wonder is a perfect end for the Switch",
+    "source": "Polygon",
+    "published_at": "2023-10-18T13:00:00+00:00",
+    "category": "entertainment",
+    "minirag_doc_id": "doc-02f19afa7a1140835dc3d15cb98b887a"
+  },
+  {
+    "corpus_index": 607,
+    "title": "The best apps and tools for managing your money online",
+    "source": "The Verge",
+    "published_at": "2023-11-12T13:00:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-569187301579891ef4c38d2618077a76"
+  },
+  {
+    "corpus_index": 608,
+    "title": "Meta to offer ad-free subscription in Europe in bid to keep tracking other users",
+    "source": "TechCrunch",
+    "published_at": "2023-10-30T13:52:00+00:00",
+    "category": "technology",
+    "minirag_doc_id": "doc-f229fe7364eea52591420fea7f191ad6"
+  }
+]

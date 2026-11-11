@@ -1,0 +1,20 @@
+{
+  "created_at_utc": "2026-11-06T17:34:48.105869+00:00",
+  "dataset": "yixuantt/MultiHopRAG",
+  "corpus_path": "/Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/dataset/MultiHop-RAG/corpus.json",
+  "document_count": 609,
+  "index_llm_backend": "openai",
+  "index_llm_model": "gpt-4o-mini",
+  "index_openai_implementation": "official",
+  "openai_max_output_tokens_guarded_only": null,
+  "prompt_source": "Official MiniRAG; no custom extraction prompt",
+  "index_design": "One GPT-index shared by all QA models",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "chunk_size": 1200,
+  "chunk_overlap": 100,
+  "gleaning": 1,
+  "index_seconds": 15383.26,
+  "graph_file": "/Users/zhang/Documents/ChatGPT/iccrd/MiniRAG/.runsgpt_index_v2/graph_chunk_entity_relation.graphml",
+  "note": "QA gold answers and evidence_list were never indexed"
+}

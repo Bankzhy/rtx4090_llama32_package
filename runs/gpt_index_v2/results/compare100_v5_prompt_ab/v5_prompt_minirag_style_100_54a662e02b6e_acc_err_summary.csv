@@ -1,0 +1,6 @@
+﻿question_type,count,correct,incorrect,abstain,accuracy_pct,error_rate_pct,abstention_rate_pct
+overall,100,45,42,13,45.0,42.0,13.0
+comparison_query,35,12,21,2,34.29,60.0,5.71
+inference_query,33,24,8,1,72.73,24.24,3.03
+null_query,9,0,2,7,0.0,22.22,77.78
+temporal_query,23,9,11,3,39.13,47.83,13.04
