@@ -38,6 +38,38 @@ EVIDENCE_GUIDED_PROMPT = (
     "say the information is insufficient. Do not invent facts or sources. Be concise."
 )
 
+# Experimental alternative for Llama 3.2 only. The original V5 prompt is kept
+# unchanged for all other models and can still be used for strict baseline runs.
+EVIDENCE_GUIDED_V2_LLAMA_PROMPT = (
+    "Answer the question using only the provided evidence. "
+    "First, identify the relevant facts from the evidence. "
+    "For comparison and temporal questions, compare the relevant entities, dates, "
+    "and event order across the sources. Combine information from multiple sources "
+    "when necessary. "
+    "Provide your response in the following format:\n\n"
+    "Evidence Analysis:\n"
+    "Briefly summarize the key evidence and reasoning needed to answer the question "
+    "in no more than three sentences.\n\n"
+    "Final Answer:\n"
+    "Provide one clear and direct answer to the original question. "
+    "For yes/no questions, answer Yes or No. "
+    "For entity questions, provide the entity name.\n\n"
+    "If the evidence is insufficient or contradictory and cannot be resolved, "
+    "state \"Insufficient information\" as the final answer. "
+    "Do not invent facts or include unrelated information."
+)
+
+
+def concept_prompt_for(args):
+    return (EVIDENCE_GUIDED_V2_LLAMA_PROMPT if args.model == "llama3.2-3b"
+            else EVIDENCE_GUIDED_PROMPT)
+
+
+def concept_prompt_name(args):
+    return ("V5 Evidence-Guided V2 (Llama3.2 experimental)" if args.model == "llama3.2-3b"
+            else "V5 Evidence-Guided exact prompt")
+
+
 
 def stamp():
     return datetime.now(timezone.utc).isoformat()
@@ -108,6 +140,8 @@ def check_inputs(args):
     if args.method in ("mini", "standard"):
         import minirag
         print("[NATIVE MiniRAG]", Path(minirag.__file__).resolve(), flush=True)
+    if args.method == "concept":
+        validate_concept_v5_evidence(args, questions(args))
 
 
 def experiment_signature(args):
@@ -126,10 +160,14 @@ def experiment_signature(args):
         "concept_contexts": str(args.concept_contexts),
         "concept_contexts_sha256": sha(args.concept_contexts),
         "mini_top_k": args.mini_top_k,
+        "standard_top_k": args.mini_top_k,
+        "retrieval_top_k_policy": "MiniRAG mini and Standard naive both explicitly top_k=5; Concept V5 final 5 evidence chunks",
         "max_native_attempts": args.max_native_attempts,
-        "standard_queryparam": "QueryParam(mode=naive) no top_k override",
+        "standard_queryparam": "QueryParam(mode=naive, top_k=5) explicit",
         "mini_queryparam": "QueryParam(mode=mini, top_k=5) paper-reported",
-        "concept_method": "saved V5 evidence, 14000-char context, Evidence-Guided prompt",
+        "concept_method": "saved V5 evidence, 14000-char context, Evidence-Guided V2 for llama3.2-3b only",
+        "concept_llama_prompt_v2_sha256": hashlib.sha256(EVIDENCE_GUIDED_V2_LLAMA_PROMPT.encode("utf-8")).hexdigest(),
+        "concept_original_prompt_sha256": hashlib.sha256(EVIDENCE_GUIDED_PROMPT.encode("utf-8")).hexdigest(),
         "generation_max_new_tokens": 512,
         "hf_device": args.device,
         "hf_precision": "FP16 on MPS via existing adapter",
@@ -159,6 +197,67 @@ def ensure_protocol(args):
         print("[PROTOCOL] Created", p, flush=True)
 
 
+
+def validate_concept_v5_evidence(args, data):
+    """Verify that cached V5 evidence matches its original QA retrieval records.
+
+    Validation only: never change evidence, ordering, prompts, or model outputs.
+    Equivalent to the original V5 full-run ID/chunk-order preflight.
+    """
+    original_path = args.concept_contexts.with_name("concept_tree_v5_full2556.jsonl")
+    if not original_path.is_file():
+        raise FileNotFoundError(
+            f"Cannot validate V5 evidence without its original QA file: {original_path}. "
+            "Copy the original V5 QA JSONL from Mac; do not run on unverified evidence."
+        )
+    def read_unique(path):
+        rows = {}
+        with path.open(encoding="utf-8") as f:
+            for line_no, line in enumerate(f, 1):
+                if not line.strip():
+                    continue
+                row = json.loads(line)
+                i = int(row["question_id"])
+                if i in rows:
+                    raise ValueError(f"Duplicate V5 question_id #{i} at {path}:{line_no}")
+                rows[i] = row
+        return rows
+
+    original = read_unique(original_path)
+    contexts = read_unique(args.concept_contexts)
+    expected = set(range(len(data)))
+    for label, records in (("original V5 QA", original), ("V5 contexts", contexts)):
+        actual = set(records)
+        if actual != expected:
+            raise ValueError(
+                f"{label} question IDs mismatch: missing={sorted(expected-actual)[:20]}, "
+                f"unexpected={sorted(actual-expected)[:20]}"
+            )
+    for i in range(len(data)):
+        old = original[i]
+        cached = contexts[i]
+        # Match the original V5 runner's good(row) definition exactly.
+        if old.get("error") or not str(old.get("model_answer") or "").strip():
+            raise ValueError(f"Original V5 question #{i} was not successful")
+        original_ids = old.get("retrieved_chunk_ids") or []
+        evidence = cached.get("evidence") or []
+        if not isinstance(evidence, list):
+            raise ValueError(f"V5 evidence #{i} must be a list")
+        context_ids = [e.get("chunk_id") for e in evidence]
+        if not original_ids or original_ids != context_ids:
+            raise ValueError(
+                f"V5 question #{i} chunk IDs/order mismatch: "
+                f"original={original_ids!r}, cached={context_ids!r}"
+            )
+        for label, row in (("original", old), ("contexts", cached)):
+            query = row.get("query")
+            if query is not None and query != data[i]["query"]:
+                raise ValueError(f"V5 {label} question #{i} query differs from MultiHopRAG")
+    print(f"[V5 VALIDATED] {len(data)} question IDs and exact retrieved chunk "
+          f"IDs/order match original V5; original={original_path}; "
+          f"contexts={args.concept_contexts}", flush=True)
+
+
 def run_concept(args, data, indices, output, attempt_counts):
     from concept_tree_rag_v5_timed_engine import local_answer
     evidence_by_id = load_jsonl(args.concept_contexts)
@@ -181,7 +280,7 @@ def run_concept(args, data, indices, output, attempt_counts):
                 if not evidence:
                     raise RuntimeError(f"Missing V5 evidence for question_id={i}")
                 answer = str(local_answer(opts, item["query"], evidence,
-                                          system_prompt=EVIDENCE_GUIDED_PROMPT)).strip()
+                                          system_prompt=concept_prompt_for(args))).strip()
                 if not answer:
                     raise RuntimeError("Empty answer")
                 timing = dict(getattr(local_answer, "last_timing", {}) or {})
@@ -195,7 +294,8 @@ def run_concept(args, data, indices, output, attempt_counts):
                 "input_tokens": input_tokens,
                 "timing": timing,
                 "retrieved_chunk_ids": [e.get("chunk_id") for e in evidence],
-                "prompt_source": "V5 Evidence-Guided exact prompt",
+                "prompt_source": concept_prompt_name(args),
+                "system_prompt_sha256": hashlib.sha256(concept_prompt_for(args).encode("utf-8")).hexdigest(),
                 "qwen3_thinking": "disabled" if args.model == "qwen3-4b" else "n/a",
                 "input_tokens_source": "HF actual model tokenization",
                 "answer_generation_seconds": timing.get("generation_seconds"),
@@ -219,9 +319,10 @@ def run_native(args, data, indices, output, attempt_counts):
             item = data[i]
             t0 = time.perf_counter()
             answer, error = "", None
-            # MiniRAG paper Top-K=5; Standard keeps the original naive mode defaults.
-            param = (QueryParam(mode="mini", top_k=args.mini_top_k)
-                     if mode == "mini" else QueryParam(mode="naive"))
+            # Explicitly set top_k=5 for both MiniRAG mini and Standard naive.
+            # Their retrieval algorithms differ; this matches QueryParam.top_k,
+            # not necessarily the final number of evidence chunks or tokens.
+            param = QueryParam(mode=mode, top_k=args.mini_top_k)
             retry_errors = []
             # Reset trace for this question only. It tracks the exact actual
             # input token count for every native LLM call, including keywords.
@@ -409,11 +510,16 @@ def check(args):
     print("[QA]", len(data), "questions")
     print("[MODELS]", MODELS)
     print("[METHODS]", METHODS)
+    print("[TOP-K] Concept V5 final evidence=5; MiniRAG mini=5; Standard naive=5")
     print("[CONCEPT V5]", args.concept_contexts,
           "found" if args.concept_contexts.is_file() else "MISSING")
     print("[MINIRAG INDEX]", args.mini_index,
           "found" if args.mini_index.is_dir() else "MISSING")
     print("[HF ADAPTER]", ROOT / "run_experiment_mps_memory_fixed.py")
+    if args.method == "concept":
+        validate_concept_v5_evidence(args, data)
+        print("[PROMPT]", concept_prompt_name(args),
+              "SHA256=", hashlib.sha256(concept_prompt_for(args).encode("utf-8")).hexdigest())
 
 
 def main():
